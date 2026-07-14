@@ -1,0 +1,42 @@
+# ─── Core framework ───────────────────────────────────────────────────────────
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+gradio>=4.0.0
+pydantic>=2.7.0
+pydantic-settings>=2.3.0
+
+# ─── LLM providers ────────────────────────────────────────────────────────────
+openai>=1.30.0
+langchain>=0.2.0
+langchain-openai>=0.1.8
+langchain-core>=0.2.0
+langchain-chroma>=0.1.2
+langchain-ibm>=0.1.0         # optional WatsonX fallback
+
+# ─── IBM WatsonX (optional) ───────────────────────────────────────────────────
+ibm-watsonx-ai>=1.1.0
+
+# ─── Anthropic (MCP sampling) ────────────────────────────────────────────────
+anthropic>=0.28.0
+
+# ─── MCP ──────────────────────────────────────────────────────────────────────
+fastmcp>=0.4.0
+mcp>=1.0.0
+
+# ─── Vector DB ────────────────────────────────────────────────────────────────
+chromadb>=0.5.3
+
+# ─── Embeddings ───────────────────────────────────────────────────────────────
+sentence-transformers>=3.0.0
+transformers>=4.41.0
+torch>=2.3.0                 # CPU build is fine; use torch+cu121 for GPU
+
+# ─── Image processing ────────────────────────────────────────────────────────
+Pillow>=10.3.0
+
+# ─── Utilities ────────────────────────────────────────────────────────────────
+numpy>=1.26.0
+tenacity>=8.3.0
+python-multipart>=0.0.9     # form-data support for FastAPI
+python-dotenv>=1.0.0
+httpx>=0.27.0               # async HTTP client (used by tests / health checks)

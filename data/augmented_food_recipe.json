@@ -1,0 +1,2566 @@
+[
+    {
+        "id": 1,
+        "name": "Classic Margherita Pizza",
+        "cuisine": "Italian",
+        "servings": 2,
+        "prep_time": "20 mins",
+        "cook_time": "15 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "1 pizza dough ball (about 260g)",
+            "2 tablespoons tomato sauce",
+            "1 cup shredded mozzarella cheese",
+            "6-8 fresh basil leaves",
+            "1 tablespoon olive oil",
+            "pinch of salt",
+            "optional: grated parmesan"
+        ],
+        "directions": [
+            "Preheat oven to 250\u00b0C (482\u00b0F) with a baking stone if available.",
+            "Roll out dough to a 12-inch circle on a floured surface.",
+            "Spread tomato sauce evenly over dough, leaving a 1/2-inch border.",
+            "Scatter mozzarella cheese over sauce.",
+            "Bake on the stone for 10-12 minutes until crust is crisp and cheese melts.",
+            "Finish with basil leaves, drizzle with olive oil, and season with salt and optional parmesan.",
+            "Slice and serve immediately."
+        ],
+        "image_description": "{\"visibleIngredients\": [\"pizza crust\", \"tomato sauce\", \"melted cheese\", \"basil leaves\"], \"cookingStyle\": \"wood-fired\", \"foodPresentation\": \"sliced into 4 pieces\", \"garnishes\": [\"basil leaves\"], \"portionSize\": \"medium\", \"plateOrBowlType\": \"wooden pizza board\", \"colors\": [\"red\", \"green\", \"white\", \"golden brown\", \"black\"], \"textures\": [\"crusty crust\", \"smooth sauce\", \"melted cheese\", \"leafy basil\"], \"visibleSaucesOrToppings\": [\"tomato sauce\", \"melted cheese\", \"basil leaves\"]}"
+    },
+    {
+        "id": 2,
+        "name": "Chicken Tikka Masala",
+        "cuisine": "Indian",
+        "servings": 4,
+        "prep_time": "25 mins",
+        "cook_time": "40 mins",
+        "total_time": "1 hour 5 mins",
+        "ingredients": [
+            "500g boneless chicken thighs, cubed",
+            "1 cup yogurt",
+            "2 tablespoons lemon juice",
+            "2 teaspoons garam masala",
+            "1 teaspoon ground cumin",
+            "1 teaspoon ground coriander",
+            "1 onion, minced",
+            "2 cloves garlic, minced",
+            "1 tablespoon grated ginger",
+            "1 can (400g) crushed tomatoes",
+            "1 cup heavy cream or coconut cream",
+            "2 tablespoons oil",
+            "Salt to taste",
+            "Fresh cilantro for garnish"
+        ],
+        "directions": [
+            "Marinate chicken in yogurt, lemon juice, garam masala, cumin, coriander, and a pinch of salt for at least 30 minutes.",
+            "In a large pan, heat oil and saut\u00e9 onion until translucent.",
+            "Add garlic and ginger; cook 1 minute until fragrant.",
+            "Add marinated chicken; cook until browned on all sides.",
+            "Stir in crushed tomatoes and simmer 15 minutes.",
+            "Reduce heat and add cream; simmer 5-10 minutes until sauce thickens.",
+            "Garnish with cilantro and serve with rice or naan."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"chicken\", \"red sauce\", \"green herbs\", \"white rice\", \"naan bread\"],\n  \"cookingStyle\": \"Not visually identifiable\",\n  \"foodPresentation\": \"The dish is served in a metal bowl with handles, garnished with green herbs.\",\n  \"garnishes\": [\"green herbs\"],\n  \"portionSize\": \"The portion appears to be for one person.\",\n  \"plateOrBowlType\": \"Metal bowl with handles\",\n  \"colors\": [\"red\", \"orange\", \"white\", \"green\", \"brown\"],\n  \"textures\": [\"smooth sauce\", \"chunky chicken\", \"fluffy rice\", \"soft naan bread\"],\n  \"visibleSaucesOrToppings\": [\"red sauce\", \"white cream swirl on top\"]\n}"
+    },
+    {
+        "id": 3,
+        "name": "Vegetable Stir-Fry with Tofu",
+        "cuisine": "Chinese",
+        "servings": 3,
+        "prep_time": "15 mins",
+        "cook_time": "12 mins",
+        "total_time": "27 mins",
+        "ingredients": [
+            "200g firm tofu, cubed",
+            "1 tablespoon soy sauce",
+            "1 tablespoon cornstarch",
+            "2 tablespoons vegetable oil",
+            "1 cup broccoli florets",
+            "1 red bell pepper, sliced",
+            "1 carrot, julienned",
+            "1 cup snap peas",
+            "2 cloves garlic, minced",
+            "1 tablespoon rice vinegar",
+            "1 tablespoon hoisin sauce",
+            "1 teaspoon sesame oil"
+        ],
+        "directions": [
+            "Toss tofu with soy sauce and cornstarch.",
+            "Heat oil in a wok or large skillet over high heat.",
+            "Fry tofu until golden; remove and set aside.",
+            "Add garlic and vegetables; stir-fry 3-4 minutes until crisp-tender.",
+            "Return tofu to pan; add rice vinegar, hoisin sauce, and sesame oil.",
+            "Cook 1-2 minutes until coated; serve with steamed rice."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"tofu\", \"broccoli\", \"carrots\", \"green beans\"],\n  \"cooking_style\": \"stir-fry\",\n  \"food_presentation\": \"mixed ingredients in a bowl\",\n  \"garnishes\": \"None\",\n  \"portion_size\": \"One serving\",\n  \"plate_or_bowl_type\": \"White ceramic bowl\",\n  \"colors\": [\"orange\", \"green\", \"brown\"],\n  \"textures\": [\"glossy\", \"soft\", \"crunchy\"],\n  \"visible_sauces_or_toppings\": [\"Brown sauce\"]\n}"
+    },
+    {
+        "id": 4,
+        "name": "Greek Giouvertsa Salad with Lemon-Oregano Dressing",
+        "cuisine": "Greek",
+        "servings": 2,
+        "prep_time": "15 mins",
+        "cook_time": "0 mins",
+        "total_time": "15 mins",
+        "ingredients": [
+            "2 cups chopped romaine",
+            "1 cucumber, diced",
+            "1 cup cherry tomatoes, halved",
+            "1/2 red onion, thinly sliced",
+            "1/2 cup Kalamata olives",
+            "1/2 cup feta cheese, crumbled",
+            "2 tablespoons olive oil",
+            "1 tablespoon lemon juice",
+            "1 teaspoon dried oregano",
+            "Salt and pepper to taste"
+        ],
+        "directions": [
+            "Toss romaine, cucumber, tomatoes, onion, olives, and feta in a bowl.",
+            "Whisk olive oil, lemon juice, oregano, salt, and pepper to make dressing.",
+            "Pour dressing over the salad and toss to combine.",
+            "Serve immediately."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"lettuce\", \"tomatoes\", \"cucumbers\", \"red onions\", \"olives\", \"feta cheese\"],\n  \"cooking_style\": \"Not visually identifiable\",\n  \"food_presentation\": \"Mixed salad in a bowl\",\n  \"garnishes\": \"Not visible\",\n  \"portion_size\": \"Large bowl\",\n  \"plate_or_bowl_type\": \"White ceramic bowl\",\n  \"colors\": [\"green\", \"red\", \"white\", \"black\", \"purple\"],\n  \"textures\": [\"crunchy\", \"soft\"],\n  \"visible_sauces_or_toppings\": [\"Dressing visible in a small glass bowl next to the salad\"]\n}"
+    },
+    {
+        "id": 5,
+        "name": "Spaghetti Aglio e Olio",
+        "cuisine": "Italian",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "200g spaghetti",
+            "4 cloves garlic, thinly sliced",
+            "1/2 teaspoon red pepper flakes",
+            "1/4 cup olive oil",
+            "Fresh parsley, chopped",
+            "Salt to taste",
+            "Grated parmesan to serve"
+        ],
+        "directions": [
+            "Cook spaghetti in salted water until al dente; reserve 1/2 cup pasta water.",
+            "Heat olive oil in a pan; add garlic and red pepper flakes, cook until fragrant and lightly golden.",
+            "Toss pasta with garlic oil, adding reserve water as needed.",
+            "Season, mix in parsley, and serve with parmesan."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"spaghetti\", \"garlic\", \"parsley\", \"red pepper flakes\", \"parmesan cheese\"],\n  \"cooking_style\": \"Not visually identifiable\",\n  \"food_presentation\": \"The spaghetti is piled high in a white bowl, topped with grated parmesan cheese and parsley.\",\n  \"garnishes\": [\"parsley\", \"parmesan cheese\"],\n  \"portion_size\": \"A single serving in a white bowl\",\n  \"plate_or_bowl_type\": \"White ceramic bowl\",\n  \"colors\": [\"yellow\", \"white\", \"green\", \"red\"],\n  \"textures\": [\"long thin strands of pasta\", \"crumbly cheese\", \"chopped herbs\"],\n  \"visible_sauces_or_toppings\": [\"oil with visible red pepper flakes\"]\n}"
+    },
+    {
+        "id": 6,
+        "name": "Distance-Glazed Salmon with Dill",
+        "cuisine": "American",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "12 mins",
+        "total_time": "22 mins",
+        "ingredients": [
+            "2 salmon fillets",
+            "2 tablespoons honey",
+            "1 tablespoon soy sauce",
+            "1 tablespoon Dijon mustard",
+            "1 tablespoon fresh dill, chopped",
+            "Salt and pepper to taste"
+        ],
+        "directions": [
+            "Preheat oven to 200\u00b0C (400\u00b0F).",
+            "Mix honey, soy sauce, mustard, and dill.",
+            "Season salmon with salt and pepper; brush with glaze.",
+            "Bake 10-12 minutes until flaky; drizzle remaining glaze over and serve."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"salmon\", \"dill\", \"lemon\", \"sauce or glaze\"],\n  \"cookingStyle\": \"Not visually identifiable\",\n  \"foodPresentation\": \"Salmon fillet is sliced and presented on a wooden cutting board\",\n  \"garnishes\": [\"dill sprigs\", \"lemon wedges\"],\n  \"portionSize\": \"One large fillet, sliced into multiple portions\",\n  \"plateOrBowlType\": \"Wooden cutting board\",\n  \"colors\": [\"orange\", \"brown\", \"green\", \"yellow\"],\n  \"textures\": [\"glossy sauce\", \"cooked fish\", \"herbs\"],\n  \"visibleSaucesOrToppings\": [\"brown glaze or sauce\", \"dill sprigs\", \"lemon wedges\"]\n}"
+    },
+    {
+        "id": 7,
+        "name": "Tomato Basil Soup",
+        "cuisine": "American",
+        "servings": 4,
+        "prep_time": "10 mins",
+        "cook_time": "25 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "1 tablespoon olive oil",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "2 cans (400g each) crushed tomatoes",
+            "1 cup vegetable broth",
+            "1/2 cup cream or coconut milk",
+            "Fresh basil, torn",
+            "Salt and pepper to taste"
+        ],
+        "directions": [
+            "Saut\u00e9 onion and garlic in olive oil until translucent.",
+            "Add crushed tomatoes and broth; simmer 15 minutes.",
+            "Blend until smooth or leave chunky based on preference.",
+            "Stir in cream and basil; season to taste and serve."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"tomato soup\", \"basil leaves\", \"red pepper\", \"garlic cloves\", \"tomatoes\", \"onion\", \"salt\", \"olive oil\", \"peppercorns\"],\n  \"cooking_style\": \"Not visually identifiable\",\n  \"food_presentation\": \"The soup is served in a bowl with a garnish of basil leaves and herbs on top.\",\n  \"garnishes\": [\"basil leaves\", \"herbs\"],\n  \"portion_size\": \"A single serving in a bowl\",\n  \"plate_or_bowl_type\": \"Ceramic bowl with a brown rim\",\n  \"colors\": [\"red\", \"green\", \"yellow\", \"white\", \"purple\"],\n  \"textures\": [\"smooth soup\", \"leafy herbs\", \"rough peppercorns\", \"oily liquid\"],\n  \"visible_sauces_or_toppings\": [\"creamy sauce in a small bowl\"]\n}"
+    },
+    {
+        "id": 8,
+        "name": "Pad Thai",
+        "cuisine": "Thai",
+        "servings": 2,
+        "prep_time": "20 mins",
+        "cook_time": "15 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "150g rice noodles",
+            "2 tablespoons tamarind paste",
+            "2 tablespoons fish sauce",
+            "1 tablespoon palm sugar or brown sugar",
+            "2 eggs",
+            "200g shrimp or chicken",
+            "1 cup bean sprouts",
+            "2 cloves garlic, minced",
+            "1 lime, cut into wedges",
+            "1/4 cup roasted peanuts, chopped",
+            "1 tablespoon oil",
+            "Chili flakes (optional)"
+        ],
+        "directions": [
+            "Prepare noodles according to package; drain and set aside.",
+            "Mix tamarind paste, fish sauce, and sugar to make sauce.",
+            "Saut\u00e9 garlic in oil; add shrimp or chicken and cook through.",
+            "Push meat aside, scramble eggs in the pan, then mix with noodles.",
+            "Add sauce and bean sprouts; toss quickly.",
+            "Garnish with peanuts, lime wedges, and chili flakes if desired."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"noodles\", \"shrimp\", \"eggs\", \"green onions\", \"bean sprouts\", \"cashews\", \"red chili peppers\"],\n  \"cookingStyle\": \"stir-fried\",\n  \"foodPresentation\": \"The dish is arranged on a large, shallow ceramic plate with a brown rim.\",\n  \"garnishes\": [\"green onions\", \"lime wedge\"],\n  \"portionSize\": \"Large, suitable for a single serving\",\n  \"plateOrBowlType\": \"Shallow ceramic plate\",\n  \"colors\": [\"brown\", \"orange\", \"green\", \"white\", \"red\"],\n  \"textures\": [\"soft noodles\", \"crunchy cashews\", \"tender shrimp\"],\n  \"visibleSaucesOrToppings\": [\"dark sauce with red chili peppers in a small bowl on the side\", \"light brown powder in a small bowl\", \"orange-red powder in a small bowl\"]\n}"
+    },
+    {
+        "id": 9,
+        "name": "Chickpea Falafel with Tahini",
+        "cuisine": "Middle Eastern",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "15 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "2 cups cooked chickpeas",
+            "1 small onion, chopped",
+            "2 cloves garlic",
+            "1/4 cup fresh parsley",
+            "2 tablespoons flour",
+            "1 teaspoon cumin",
+            "1/2 teaspoon coriander",
+            "Salt and pepper",
+            "Oil for frying",
+            "Tahini sauce: 1/4 cup tahini, lemon juice, water"
+        ],
+        "directions": [
+            "Pulse chickpeas, onion, garlic, parsley, flour, and spices until coarse.",
+            "Form into small patties or balls.",
+            "Fry in hot oil until golden and crisp.",
+            "Whisk tahini with lemon juice and water to desired consistency.",
+            "Serve falafel with tahini sauce."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"falafel\", \"parsley\", \"onion\", \"lemon\", \"garlic\", \"chickpeas\"],\n  \"cooking_style\": \"fried\",\n  \"food_presentation\": \"The falafel is arranged on a plate with garnishes and accompaniments.\",\n  \"garnishes\": [\"parsley\", \"lemon slice\"],\n  \"portion_size\": \"6 pieces of falafel\",\n  \"plate_or_bowl_type\": \"Ceramic plate\",\n  \"colors\": [\"brown\", \"green\", \"white\", \"yellow\"],\n  \"textures\": [\"crispy\", \"soft\", \"crunchy\"],\n  \"visible_sauces_or_toppings\": [\"tahini sauce in a separate bowl\"],\n  \"other_visible_elements\": [\"spices\", \"herbs\", \"chickpeas in a bowl\"]\n}"
+    },
+    {
+        "id": 10,
+        "name": "Beef Tacos with Salsa Verde",
+        "cuisine": "Mexican",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "15 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "400g ground beef",
+            "1 packet taco seasoning",
+            "8 corn tortillas",
+            "1 cup salsa verde",
+            "Shredded lettuce",
+            "Chopped tomatoes",
+            "Grated cheddar or Mexican cheese",
+            "Sour cream (optional)"
+        ],
+        "directions": [
+            "Cook beef with taco seasoning until browned.",
+            "Warm tortillas in a dry skillet.",
+            "Fill tortillas with beef, lettuce, tomatoes, and cheese.",
+            "Top with salsa verde and sour cream if desired."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"ground beef\", \"lettuce\", \"cheese\", \"diced tomatoes\", \"sour cream\", \"guacamole or green salsa\"],\n  \"cookingStyle\": \"Not visually identifiable\",\n  \"foodPresentation\": \"Four tacos arranged side by side on a plate\",\n  \"garnishes\": [\"diced tomatoes\", \"scattered cheese and pepper pieces around the plate\"],\n  \"portionSize\": \"Four tacos\",\n  \"plateOrBowlType\": \"Ceramic plate\",\n  \"colors\": [\"brown\", \"green\", \"red\", \"white\", \"yellow\"],\n  \"textures\": [\"crunchy taco shells\", \"soft filling\", \"shredded cheese\", \"diced tomatoes\", \"smooth sour cream\"],\n  \"visibleSaucesOrToppings\": [\"sour cream\", \"guacamole or green salsa\", \"shredded cheese\", \"diced tomatoes\"]\n}"
+    },
+    {
+        "id": 11,
+        "name": "Pan-Seared Ribeye Steak",
+        "cuisine": "American",
+        "servings": 2,
+        "prep_time": "5 mins",
+        "cook_time": "10 mins",
+        "total_time": "15 mins",
+        "ingredients": [
+            "2 ribeye steaks (1 inch thick)",
+            "Salt and pepper",
+            "2 tablespoons butter",
+            "2 cloves garlic, smashed",
+            "Fresh thyme sprigs"
+        ],
+        "directions": [
+            "Season steaks with salt and pepper.",
+            "Sear in a hot pan with butter until desired doneness (about 4-5 minutes per side for medium-rare).",
+            "Add garlic and thyme during the last minute, spooning butter over steaks.",
+            "Rest 5 minutes before serving."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"steak\", \"thyme\", \"butter\", \"peppercorns\", \"salt\", \"garlic\"],\n  \"cookingStyle\": \"Pan-seared\",\n  \"foodPresentation\": \"Steak is centered in a pan, sliced into strips, and garnished with thyme\",\n  \"garnishes\": [\"thyme\"],\n  \"portionSize\": \"Large\",\n  \"plateOrBowlType\": \"Cast-iron pan\",\n  \"colors\": [\"brown\", \"green\", \"white\", \"black\"],\n  \"textures\": [\"seared\", \"tender\", \"herbaceous\"],\n  \"visibleSaucesOrToppings\": [\"melted butter\", \"seasoning\"]\n}"
+    },
+    {
+        "id": 12,
+        "name": "Lentil Dal with Cumin and Turmeric",
+        "cuisine": "Indian",
+        "servings": 4,
+        "prep_time": "10 mins",
+        "cook_time": "25 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "1 cup red lentils",
+            "1 small onion, chopped",
+            "2 cloves garlic, minced",
+            "1 teaspoon ground cumin",
+            "1/2 teaspoon turmeric",
+            "1 teaspoon salt",
+            "2 cups water",
+            "1 tablespoon oil",
+            "Fresh cilantro for garnish"
+        ],
+        "directions": [
+            "Rinse lentils until water runs clear.",
+            "Saut\u00e9 onion and garlic in oil until soft.",
+            "Add cumin and turmeric, cook 1 minute.",
+            "Add lentils and water; simmer 20-25 minutes until soft.",
+            "Season and garnish with cilantro."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"lentils\", \"onions\", \"tomatoes\", \"cilantro\", \"lime\", \"spices\"],\n  \"cookingStyle\": \"Not visually identifiable\",\n  \"foodPresentation\": \"The dish is presented in a bowl, garnished with various toppings.\",\n  \"garnishes\": [\"cilantro\", \"onions\", \"tomatoes\", \"lime\"],\n  \"portionSize\": \"The bowl is filled to the top with the lentil dal.\",\n  \"plateOrBowlType\": \"Ceramic bowl\",\n  \"colors\": [\"brown\", \"orange\", \"red\", \"green\", \"white\", \"yellow\"],\n  \"textures\": [\"smooth\", \"chunky\"],\n  \"visibleSaucesOrToppings\": [\"red sauce or stew base\", \"spices or seasoning on top\"]\n}"
+    },
+    {
+        "id": 13,
+        "name": "Miso-Glazed Cod with Sesame Rice",
+        "cuisine": "Japanese",
+        "servings": 2,
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "total_time": "30 mins",
+        "ingredients": [
+            "2 cod fillets",
+            "2 tablespoons miso paste",
+            "1 tablespoon mirin",
+            "1 tablespoon soy sauce",
+            "1 teaspoon sugar",
+            "1 cup cooked rice",
+            "Sesame seeds and green onions for garnish",
+            "1 teaspoon sesame oil"
+        ],
+        "directions": [
+            "Whisk miso, mirin, soy sauce, and sugar to make glaze.",
+            "Brush cod with glaze and let sit 5 minutes.",
+            "Pan-sear or bake cod until flaky.",
+            "Fluff rice with sesame oil, top with cod, sesame seeds, and green onions."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"fish\", \"rice\", \"sesame seeds\", \"green onions\", \"sauce\"],\n  \"cookingStyle\": \"grilled or pan-seared\",\n  \"foodPresentation\": \"centered on a plate\",\n  \"garnishes\": [\"sesame seeds\", \"green onions\"],\n  \"portionSize\": \"single serving\",\n  \"plateType\": \"ceramic bowl\",\n  \"colors\": [\"white\", \"brown\", \"green\", \"black\"],\n  \"textures\": [\"smooth\", \"glossy\", \"fluffy\"],\n  \"visibleSaucesOrToppings\": [\"dark brown sauce\", \"sesame seeds\", \"green onions\"]\n}"
+    },
+    {
+        "id": 14,
+        "name": "Caribbean Jerk Chicken",
+        "cuisine": "Caribbean",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "25 mins",
+        "total_time": "45 mins",
+        "ingredients": [
+            "4 chicken thighs",
+            "2 tablespoons jerk seasoning",
+            "1 tablespoon lime juice",
+            "1 tablespoon olive oil",
+            "Salt to taste"
+        ],
+        "directions": [
+            "Marinate chicken with jerk seasoning, lime juice, olive oil, and salt for 20 minutes.",
+            "Grill or bake until cooked through, about 20-25 minutes.",
+            "Rest briefly and serve with sides like rice and beans."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"chicken\", \"lime\", \"mint\", \"rice\", \"beans\", \"salt\"],\n  \"cooking_style\": \"grilled\",\n  \"food_presentation\": \"on a wooden platter\",\n  \"garnishes\": [\"lime slices\", \"mint leaves\"],\n  \"portion_size\": \"four pieces of chicken\",\n  \"plate_or_bowl_type\": \"wooden platter and terracotta bowls\",\n  \"colors\": [\"brown\", \"green\", \"white\", \"orange\"],\n  \"textures\": [\"glazed\", \"crispy\", \"smooth\"],\n  \"visible_sauces_or_toppings\": [\"glaze on chicken\"]\n}"
+    },
+    {
+        "id": 15,
+        "name": "Roasted Tomato and Basil Pasta",
+        "cuisine": "Italian",
+        "servings": 3,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "300g pasta",
+            "3 cups cherry tomatoes, halved",
+            "3 cloves garlic, sliced",
+            "2 tablespoons olive oil",
+            "Fresh basil leaves",
+            "Salt and pepper",
+            "Grated parmesan"
+        ],
+        "directions": [
+            "Roast tomatoes and garlic with olive oil for 15-20 minutes.",
+            "Cook pasta until al dente, reserve 1/2 cup pasta water.",
+            "Toss pasta with roasted tomatoes, add water to loosen if needed.",
+            "Stir in torn basil and parmesan; season to taste."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"penne pasta\", \"roasted cherry tomatoes\", \"basil leaves\", \"grated cheese\"],\n  \"cookingStyle\": \"roasted\",\n  \"foodPresentation\": \"The pasta is presented on a large, shallow plate, topped with roasted cherry tomatoes and basil leaves.\",\n  \"garnishes\": [\"basil leaves\", \"grated cheese\"],\n  \"portionSize\": \"A generous serving\",\n  \"plateOrBowlType\": \"Large, shallow ceramic plate with a brown rim and blue interior\",\n  \"colors\": [\"yellow\", \"red\", \"green\", \"white\", \"brown\"],\n  \"textures\": [\"smooth pasta\", \"wrinkled roasted tomatoes\", \"fresh basil leaves\", \"grated cheese\"],\n  \"visibleSaucesOrToppings\": [\"Not visually identifiable\"]\n}"
+    },
+    {
+        "id": 16,
+        "name": "Paneer Butter Masala",
+        "cuisine": "Indian",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "250g paneer, cubed",
+            "2 tablespoons butter",
+            "1 onion, finely chopped",
+            "1 teaspoon ginger-garlic paste",
+            "2 tomatoes, pureed",
+            "1/2 cup cream",
+            "1 teaspoon garam masala",
+            "Salt to taste"
+        ],
+        "directions": [
+            "Fry paneer lightly until golden; set aside.",
+            "Saut\u00e9 onion with butter, add ginger-garlic paste.",
+            "Add tomato puree and simmer 10 minutes.",
+            "Stir in cream, garam masala, and paneer; simmer 5 minutes.",
+            "Season to taste and serve with rice or naan."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"Paneer\", \"Onions\", \"Cilantro\"],\n  \"cookingStyle\": \"Not visually identifiable\",\n  \"foodPresentation\": \"The dish is presented in a bowl with paneer cubes in a red sauce, garnished with onions and cilantro.\",\n  \"garnishes\": [\"Onions\", \"Cilantro\"],\n  \"portionSize\": \"The portion appears to be for one or more servings.\",\n  \"plateOrBowlType\": \"The dish is served in a blue-gray ceramic bowl.\",\n  \"colors\": [\"Red\", \"Yellow\", \"White\", \"Green\", \"Brown\"],\n  \"textures\": [\"Smooth sauce\", \"Cubed paneer\", \"Sliced onions\", \"Chopped cilantro\"],\n  \"visibleSaucesOrToppings\": [\"Red sauce\"]\n}"
+    },
+    {
+        "id": 17,
+        "name": "Falooda (Dessert Drink)",
+        "cuisine": "Indian",
+        "servings": 2,
+        "prep_time": "15 mins",
+        "cook_time": "0 mins",
+        "total_time": "15 mins",
+        "ingredients": [
+            "2 cups milk",
+            "2 tablespoons rose syrup",
+            "1 tablespoon vermicelli noodles (soaked)",
+            "1 scoop basil seeds (sabja), soaked",
+            "Ice",
+            "Cherries or shredded coconut for garnish"
+        ],
+        "directions": [
+            "In tall glasses, layer milk, rose syrup, soaked vermicelli, and sabja.",
+            "Add ice and garnish with cherries or coconut.",
+            "Serve with a spoon and straw."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"white cream\", \"red jelly\", \"pink syrup\", \"red cherries\", \"green leaves\", \"pink rose\"],\n  \"cooking_style\": \"Not visually identifiable\",\n  \"food_presentation\": \"Two tall glasses filled with layered dessert drink\",\n  \"garnishes\": [\"red cherries\", \"green leaves\", \"pink rose petals\"],\n  \"portion_size\": \"Two servings\",\n  \"plate_or_bowl_type\": \"Tall glasses on a gray stone slab\",\n  \"colors\": [\"white\", \"red\", \"pink\", \"green\"],\n  \"textures\": [\"smooth cream\", \"gelatinous jelly\", \"thin noodles\"],\n  \"visible_sauces_or_toppings\": [\"pink syrup drizzled on the sides\", \"white cream on top\"]\n}"
+    },
+    {
+        "id": 18,
+        "name": "Shakshuka",
+        "cuisine": "Mediterranean",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "20 mins",
+        "total_time": "30 mins",
+        "ingredients": [
+            "1 tablespoon olive oil",
+            "1 onion, chopped",
+            "1 bell pepper, sliced",
+            "2 cloves garlic, minced",
+            "1 can (400g) chopped tomatoes",
+            "1 teaspoon paprika",
+            "1/2 teaspoon cumin",
+            "4 eggs",
+            "Fresh parsley for garnish",
+            "Salt and pepper to taste"
+        ],
+        "directions": [
+            "Saut\u00e9 onion and pepper in olive oil until soft.",
+            "Add garlic, tomatoes, paprika, and cumin; simmer 10 minutes.",
+            "Make four wells in sauce and crack in eggs.",
+            "Cover and cook until eggs set; garnish with parsley."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"eggs\", \"peppers\", \"onions\", \"tomatoes\", \"parsley\", \"garlic\", \"peppercorns\"],\n  \"cookingStyle\": \"baked or cooked in a pan\",\n  \"foodPresentation\": \"served in a cast-iron skillet\",\n  \"garnishes\": [\"parsley\"],\n  \"portionSize\": \"Not visually identifiable\",\n  \"plateOrBowlType\": \"cast-iron skillet\",\n  \"colors\": [\"red\", \"green\", \"yellow\", \"white\", \"brown\"],\n  \"textures\": [\"smooth\", \"chunky\"],\n  \"visibleSaucesOrToppings\": [\"tomato sauce\"]\n}"
+    },
+    {
+        "id": 19,
+        "name": "Cuban Black Beans and Rice",
+        "cuisine": "Cuban",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "40 mins",
+        "total_time": "55 mins",
+        "ingredients": [
+            "1 cup dried black beans (or 2 cans, drained)",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 bay leaf",
+            "1 teaspoon cumin",
+            "1 tablespoon olive oil",
+            "Rice to serve"
+        ],
+        "directions": [
+            "Soak beans if using dried (overnight recommended).",
+            "Saut\u00e9 onion and garlic in oil; add beans, bay leaf, cumin, and water.",
+            "Simmer until beans are tender (about 45 minutes for dried).",
+            "Serve over rice."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"rice\", \"black beans\", \"garlic\", \"green leaves\"],\n  \"cooking_style\": \"Not visually identifiable\",\n  \"food_presentation\": \"The dish is presented on a white plate with a black rim.\",\n  \"garnishes\": [\"garlic slices\", \"green leaves\"],\n  \"portion_size\": \"A single serving.\",\n  \"plate_or_bowl_type\": \"White plate with a black rim.\",\n  \"colors\": [\"white\", \"black\", \"green\", \"brown\"],\n  \"textures\": [\"grains of rice\", \"beans\", \"slices of garlic\"],\n  \"visible_sauces_or_toppings\": [\"liquid around the beans\"]\n}"
+    },
+    {
+        "id": 20,
+        "name": "Beef Bulgogi",
+        "cuisine": "Korean",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "10 mins",
+        "total_time": "30 mins",
+        "ingredients": [
+            "500g sirloin or flank steak, thinly sliced",
+            "2 tablespoons soy sauce",
+            "1 tablespoon sugar",
+            "1 tablespoon sesame oil",
+            "2 cloves garlic, minced",
+            "1 teaspoon grated ginger",
+            "1 green onion, chopped",
+            "Sesame seeds for garnish"
+        ],
+        "directions": [
+            "Marinate beef with soy sauce, sugar, sesame oil, garlic, and ginger for 15-20 minutes.",
+            "Stir-fry in a hot pan 2-3 minutes until cooked.",
+            "Garnish with green onion and sesame seeds; serve with rice."
+        ],
+        "image_description": "{\n    \"visible_ingredients\": [\"sliced beef\", \"onions\", \"green onions\", \"sesame seeds\"],\n    \"cooking_style\": \"grilled or pan-seared\",\n    \"food_presentation\": \"sliced beef arranged on a plate with onions and garnished with green onions and sesame seeds\",\n    \"garnishes\": [\"green onions\", \"sesame seeds\"],\n    \"portion_size\": \"large\",\n    \"plate_type\": \"gray ceramic plate\",\n    \"colors\": [\"brown\", \"pink\", \"green\", \"white\", \"black\"],\n    \"textures\": [\"tender beef\", \"crunchy sesame seeds\", \"soft onions\"],\n    \"visible_sauces_or_toppings\": [\"Not visually identifiable\"]\n}"
+    },
+    {
+        "id": 21,
+        "name": "Spanish Paella Valenciana",
+        "cuisine": "Spanish",
+        "servings": 4,
+        "prep_time": "25 mins",
+        "cook_time": "40 mins",
+        "total_time": "1 hour 5 mins",
+        "ingredients": [
+            "1 cup bomba rice or arborio",
+            "200g chicken pieces",
+            "150g chorizo, sliced",
+            "1 onion, chopped",
+            "1 red bell pepper, chopped",
+            "2 tomatoes, chopped",
+            "2 cups chicken broth",
+            "Saffron threads",
+            "Olive oil",
+            "Salt"
+        ],
+        "directions": [
+            "Brown chicken and chorizo in olive oil; set aside.",
+            "Saut\u00e9 onion and pepper; add tomatoes and cook until soft.",
+            "Add rice, saffron, and broth; bring to boil.",
+            "Return meat, cover, simmer until rice is cooked and liquid absorbed.",
+            "Rest 5 minutes before serving."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"chicken\", \"tomatoes\", \"onions\", \"red peppers\", \"rosemary\"],\n  \"cooking_style\": \"pan-cooked\",\n  \"food_presentation\": \"arranged in a circular pattern\",\n  \"garnishes\": [\"rosemary sprigs\"],\n  \"portion_size\": \"large, serves multiple people\",\n  \"plate_or_bowl_type\": \"large, shallow metal pan with handles\",\n  \"colors\": [\"yellow\", \"red\", \"brown\", \"green\"],\n  \"textures\": [\"cooked rice\", \"grilled chicken\", \"soft vegetables\"],\n  \"visible_sauces_or_toppings\": [\"Not visually identifiable\"]\n}"
+    },
+    {
+        "id": 22,
+        "name": "Tom Yum Goong",
+        "cuisine": "Thai",
+        "servings": 3,
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "total_time": "30 mins",
+        "ingredients": [
+            "4 cups stock",
+            "2 stalks lemongrass, smashed",
+            "3 kaffir lime leaves",
+            "3-4 slices galangal",
+            "200g shrimp, peeled",
+            "1 cup mushrooms",
+            "2 tablespoons fish sauce",
+            "Lime juice to taste",
+            "Chili paste (optional)"
+        ],
+        "directions": [
+            "Boil stock with lemongrass, lime leaves, and galangal for 10 minutes.",
+            "Add mushrooms and shrimp; cook until shrimp turn pink.",
+            "Season with fish sauce and lime juice; add chili paste if desired."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"shrimp\", \"mushrooms\", \"lemongrass\", \"lime\", \"red chili peppers\", \"herbs\"],\n  \"cooking_style\": \"Not visually identifiable\",\n  \"food_presentation\": \"The dish is served in a white bowl with a spoon partially submerged in the soup.\",\n  \"garnishes\": [\"herbs\", \"lime wedge\", \"red chili peppers\"],\n  \"portion_size\": \"A single serving in a bowl.\",\n  \"plate_or_bowl_type\": \"White ceramic bowl\",\n  \"colors\": [\"orange\", \"red\", \"green\", \"white\", \"brown\"],\n  \"textures\": [\"liquid\", \"solid ingredients\"],\n  \"visible_sauces_or_toppings\": [\"Red chili flakes or pepper visible on the surface\"]\n}"
+    },
+    {
+        "id": 23,
+        "name": "Chicken Caesar Salad",
+        "cuisine": "American",
+        "servings": 2,
+        "prep_time": "15 mins",
+        "cook_time": "10 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "2 chicken breasts",
+            "Romaine lettuce",
+            "Croutons",
+            "Parmesan cheese",
+            "Caesar dressing"
+        ],
+        "directions": [
+            "Grill or pan-sear chicken; slice.",
+            "Toss lettuce with dressing and croutons.",
+            "Top with chicken slices and parmesan."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"romaine lettuce\", \"grilled chicken\", \"croutons\", \"cherry tomatoes\", \"parmesan cheese\"],\n  \"cookingStyle\": \"grilled\",\n  \"foodPresentation\": \"The ingredients are arranged in a visually appealing manner with the grilled chicken slices on top.\",\n  \"garnishes\": [\"shaved parmesan cheese\"],\n  \"portionSize\": \"A generous serving, filling the bowl.\",\n  \"plateOrBowlType\": \"A dark-colored bowl with a wide rim.\",\n  \"colors\": [\"green\", \"red\", \"white\", \"brown\"],\n  \"textures\": [\"crunchy\", \"soft\", \"crispy\"],\n  \"visibleSaucesOrToppings\": [\"creamy dressing\"]\n}"
+    },
+    {
+        "id": 24,
+        "name": "Moussaka",
+        "cuisine": "Greek",
+        "servings": 4,
+        "prep_time": "30 mins",
+        "cook_time": "60 mins",
+        "total_time": "1 hour 30 mins",
+        "ingredients": [
+            "2 eggplants, sliced",
+            "500g ground lamb",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 can tomatoes",
+            "Bechamel sauce: butter, flour, milk, nutmeg",
+            "Olive oil, salt, pepper"
+        ],
+        "directions": [
+            "Roast eggplant slices until tender.",
+            "Cook lamb with onion and garlic; add tomatoes and season.",
+            "Layer eggplant and meat mixture in dish; top with bechamel.",
+            "Bake until golden and set."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"eggplant\", \"ground meat\", \"tomatoes\", \"cheese\", \"herbs\"],\n  \"cooking_style\": \"baked\",\n  \"food_presentation\": \"layered in a baking dish\",\n  \"garnishes\": [\"herbs\"],\n  \"portion_size\": \"Not visually identifiable\",\n  \"plate_or_bowl_type\": \"metal baking dish\",\n  \"colors\": [\"brown\", \"black\", \"red\", \"white\", \"green\"],\n  \"textures\": [\"layered\", \"baked\", \"smooth\", \"crumbly\"],\n  \"visible_sauces_or_toppings\": [\"tomato sauce\", \"melted cheese\"]\n}"
+    },
+    {
+        "id": 25,
+        "name": "Shoyu Ramen (Quick)",
+        "cuisine": "Japanese",
+        "servings": 2,
+        "prep_time": "15 mins",
+        "cook_time": "20 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "2 servings ramen noodles",
+            "4 cups chicken broth",
+            "2 tablespoons soy sauce",
+            "1 teaspoon miso paste",
+            "Soft-boiled eggs",
+            "Slices of pork or chicken",
+            "Green onions"
+        ],
+        "directions": [
+            "Simmer broth with soy sauce and miso.",
+            "Cook noodles separately.",
+            "Assemble bowls with broth, noodles, meat, egg, and green onions."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"noodles\", \"sliced meat\", \"boiled egg\", \"green onions\", \"black sesame seeds\"],\n  \"cookingStyle\": \"Not visually identifiable\",\n  \"foodPresentation\": \"The ingredients are arranged neatly in a bowl, with noodles on one side and toppings on the other.\",\n  \"garnishes\": [\"green onions\", \"black sesame seeds\"],\n  \"portionSize\": \"A single serving in a bowl\",\n  \"plateOrBowlType\": \"Black ceramic bowl\",\n  \"colors\": [\"brown\", \"yellow\", \"green\", \"black\", \"white\"],\n  \"textures\": [\"soft noodles\", \"sliced meat with visible grill marks\", \"runny egg yolk\", \"crunchy green onions\"],\n  \"visibleSaucesOrToppings\": [\"broth\", \"sesame seeds\"]\n}"
+    },
+    {
+        "id": 26,
+        "name": "Lemon Garlic Shrimp Pasta",
+        "cuisine": "Italian",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "200g linguine",
+            "200g shrimp, peeled",
+            "2 cloves garlic, minced",
+            "1 lemon (zest and juice)",
+            "2 tablespoons olive oil",
+            "Parsley, chopped",
+            "Salt and pepper"
+        ],
+        "directions": [
+            "Cook pasta until al dente.",
+            "Saut\u00e9 garlic in olive oil; add shrimp until pink.",
+            "Toss with pasta, lemon zest/juice, and parsley.",
+            "Season and serve."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"shrimp\", \"fettuccine pasta\", \"green beans\", \"lemon slices\", \"herbs\"],\n  \"cookingStyle\": \"Not visually identifiable\",\n  \"foodPresentation\": \"The dish is presented on a round, beige-colored plate with a speckled texture.\",\n  \"garnishes\": [\"lemon slices\", \"herbs\"],\n  \"portionSize\": \"The portion appears to be generous, filling the plate.\",\n  \"plateOrBowlType\": \"Round plate\",\n  \"colors\": [\"yellow from the pasta and lemon\", \"pink from the shrimp\", \"green from the beans and herbs\"],\n  \"textures\": [\"smooth pasta\", \"succulent shrimp\", \"crunchy green beans\"],\n  \"visibleSaucesOrToppings\": [\"a light sauce or seasoning is visible on the pasta and shrimp\"]\n}"
+    },
+    {
+        "id": 27,
+        "name": "Ratatouille",
+        "cuisine": "French",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "45 mins",
+        "total_time": "1 hour 5 mins",
+        "ingredients": [
+            "1 eggplant, cubed",
+            "2 zucchinis, sliced",
+            "1 bell pepper, chopped",
+            "1 onion, chopped",
+            "2 tomatoes, chopped",
+            "2 cloves garlic, minced",
+            "Herbs de Provence",
+            "Olive oil"
+        ],
+        "directions": [
+            "Saut\u00e9 onion and garlic in olive oil.",
+            "Add vegetables; cook slowly with herbs until tender.",
+            "Season and serve warm or room temp."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"zucchini\", \"eggplant\", \"red bell pepper\", \"onion\", \"tomato\", \"red chili pepper\", \"herbs\"],\n  \"cooking_style\": \"Not visually identifiable\",\n  \"food_presentation\": \"The vegetables are sliced and arranged in a bowl\",\n  \"garnishes\": [\"herbs\"],\n  \"portion_size\": \"The bowl is filled with a generous portion of vegetables\",\n  \"plate_or_bowl_type\": \"White ceramic bowl\",\n  \"colors\": [\"green\", \"purple\", \"red\", \"orange\", \"white\"],\n  \"textures\": [\"sliced vegetables\", \"smooth bowl\", \"wooden cutting board\"],\n  \"visible_sauces_or_toppings\": [\"salt\", \"peppercorns\", \"red chili flakes\"]\n}"
+    },
+    {
+        "id": 28,
+        "name": "Crispy Skin Salmon with Dill Yogurt",
+        "cuisine": "Scandinavian",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "12 mins",
+        "total_time": "22 mins",
+        "ingredients": [
+            "2 salmon fillets",
+            "Salt and pepper",
+            "1 tablespoon butter",
+            "1/2 cup yogurt",
+            "Fresh dill, chopped",
+            "Lemon wedges"
+        ],
+        "directions": [
+            "Season salmon; sear skin-side down in butter until crisp.",
+            "Flip and cook to desired doneness.",
+            "Mix yogurt with dill and a squeeze of lemon; serve with salmon."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"salmon fillets\", \"lemon slices\", \"dill\", \"yogurt sauce\", \"seasonings\"],\n  \"cooking_style\": \"pan-seared\",\n  \"food_presentation\": \"Two salmon fillets on a plate with a side of yogurt sauce\",\n  \"garnishes\": [\"dill\", \"lemon slices\"],\n  \"portion_size\": \"Two fillets\",\n  \"plate_or_bowl_type\": \"Ceramic plate\",\n  \"colors\": [\"orange\", \"white\", \"green\", \"yellow\", \"brown\"],\n  \"textures\": [\"crispy\", \"smooth\"],\n  \"visible_sauces_or_toppings\": [\"yogurt sauce with dill and spices\", \"oil or butter on the plate\"]\n}"
+    },
+    {
+        "id": 29,
+        "name": "Thai Green Curry with Vegetables",
+        "cuisine": "Thai",
+        "servings": 3,
+        "prep_time": "15 mins",
+        "cook_time": "20 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "2 tablespoons green curry paste",
+            "1 can coconut milk",
+            "Assorted vegetables (bell peppers, zucchini, snow peas)",
+            "Tofu or chicken",
+            "Fish sauce to taste",
+            "Basil or cilantro",
+            "Rice to serve"
+        ],
+        "directions": [
+            "Saut\u00e9 curry paste briefly in oil.",
+            "Add coconut milk and simmer 5 minutes.",
+            "Add protein and vegetables; cook until tender.",
+            "Season with fish sauce and garnish with herbs; serve over rice."
+        ],
+        "image_description": "{\n    \"visibleIngredients\": [\"tofu\", \"zucchini\", \"snow peas\", \"red and yellow peppers\", \"green peas\", \"basil leaves\", \"rice\"],\n    \"cookingStyle\": \"Not visually identifiable\",\n    \"foodPresentation\": \"The dish is presented in a bowl with a side of white rice.\",\n    \"garnishes\": [\"basil leaves\"],\n    \"portionSize\": \"A single serving\",\n    \"plateOrBowlType\": \"Ceramic bowl\",\n    \"colors\": [\"green\", \"yellow\", \"red\", \"white\"],\n    \"textures\": [\"soft\", \"crunchy\"],\n    \"visibleSaucesOrToppings\": [\"green curry sauce\"]\n}"
+    },
+    {
+        "id": 30,
+        "name": "Mango Sticky Rice",
+        "cuisine": "Thai",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "20 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "1 cup glutinous rice",
+            "1 1/2 cups water",
+            "1/2 cup coconut milk",
+            "2 tablespoons sugar",
+            "1 ripe mango, sliced",
+            "Pinch salt"
+        ],
+        "directions": [
+            "Cook rice in water until tender.",
+            "Warm coconut milk with sugar and salt.",
+            "Pour coconut sauce over cooked rice and let absorb.",
+            "Serve with mango slices."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"mango\", \"sticky rice\", \"sauce\", \"green leaves\"],\n  \"cooking_style\": \"Not visually identifiable\",\n  \"food_presentation\": \"Mango Sticky Rice served in a bowl with mango on the side\",\n  \"garnishes\": [\"green leaves\"],\n  \"portion_size\": \"One serving\",\n  \"plate_or_bowl_type\": [\"blue plate\", \"bowl\"],\n  \"colors\": [\"yellow\", \"orange\", \"white\", \"green\", \"blue\"],\n  \"textures\": [\"smooth\", \"grainy\"],\n  \"visible_sauces_or_toppings\": [\"orange sauce\"]\n}"
+    },
+    {
+        "id": 31,
+        "name": "Herbed Quinoa Salad",
+        "cuisine": "American",
+        "servings": 3,
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "total_time": "30 mins",
+        "ingredients": [
+            "1 cup quinoa, rinsed",
+            "2 cups water",
+            "Cherry tomatoes, halved",
+            "Cucumber, diced",
+            "Parsley and mint, chopped",
+            "Lemon vinaigrette: lemon juice, olive oil, salt, pepper"
+        ],
+        "directions": [
+            "Cook quinoa in water until fluffy; cool.",
+            "Toss with vegetables, herbs, and vinaigrette.",
+            "Chill 10 minutes before serving if desired."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"quinoa\", \"cherry tomatoes\", \"cucumber\", \"parsley\"],\n  \"cookingStyle\": \"Not visually identifiable\",\n  \"foodPresentation\": \"The ingredients are mixed together in a bowl.\",\n  \"garnishes\": [\"parsley\"],\n  \"portionSize\": \"A single serving in a bowl.\",\n  \"plateOrBowlType\": \"Ceramic bowl with a brown rim.\",\n  \"colors\": [\"green\", \"red\", \"yellow\", \"white\", \"brown\"],\n  \"textures\": [\"grains\", \"sliced vegetables\", \"herbs\"],\n  \"visibleSaucesOrToppings\": [\"olive oil in a small bowl nearby\"],\n  \"otherObservations\": [\"Lemon halves are visible on the side.\", \"Peppercorns are scattered around the bowl.\"]\n}"
+    },
+    {
+        "id": 32,
+        "name": "Beef Shawarma Wrap",
+        "cuisine": "Middle Eastern",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "15 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "400g beef strips",
+            "Shawarma spice blend",
+            "Pita breads",
+            "Tomato, cucumber, onion slices",
+            "Tahini sauce or yogurt sauce"
+        ],
+        "directions": [
+            "Marinate beef with shawarma spices.",
+            "Cook beef in a hot pan until done.",
+            "Fill pitas with beef and vegetables; drizzle with sauce."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"beef\", \"cucumber\", \"tomato\", \"onion\", \"lettuce\", \"green onions\"],\n  \"cookingStyle\": \"Not visually identifiable\",\n  \"foodPresentation\": \"The beef shawarma wrap is presented open, showcasing its fillings.\",\n  \"garnishes\": [\"green onions\"],\n  \"portionSize\": \"A single serving wrap\",\n  \"plateOrBowlType\": \"Oval-shaped plate or dish\",\n  \"colors\": [\"brown\", \"green\", \"red\", \"white\"],\n  \"textures\": [\"soft\", \"crunchy\"],\n  \"visibleSaucesOrToppings\": [\"Not visually identifiable in the wrap, but various sauces are visible in surrounding bowls\"]\n}"
+    },
+    {
+        "id": 33,
+        "name": "Pesto Chicken Bake",
+        "cuisine": "Italian",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "4 chicken breasts",
+            "3 tablespoons pesto",
+            "1 cup mozzarella, shredded",
+            "Cherry tomatoes",
+            "Salt and pepper"
+        ],
+        "directions": [
+            "Season chicken and place in baking dish.",
+            "Top each with pesto, mozzarella, and tomatoes.",
+            "Bake at 200\u00b0C (400\u00b0F) for 22-25 minutes until chicken is cooked."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"chicken breast\", \"pasta\", \"cherry tomatoes\", \"mozzarella cheese\", \"pesto sauce\"],\n  \"cookingStyle\": \"baked\",\n  \"foodPresentation\": \"arranged in a baking dish\",\n  \"garnishes\": [\"cherry tomatoes on the vine\"],\n  \"portionSize\": \"4 servings\",\n  \"plateOrBowlType\": \"rectangular baking dish\",\n  \"colors\": [\"green\", \"red\", \"white\", \"brown\"],\n  \"textures\": [\"smooth\", \"grilled\", \"soft\"],\n  \"visibleSaucesOrToppings\": [\"pesto sauce\", \"melted mozzarella cheese\"]\n}"
+    },
+    {
+        "id": 34,
+        "name": "Baked Eggplant Parmesan",
+        "cuisine": "Italian",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "40 mins",
+        "total_time": "1 hour",
+        "ingredients": [
+            "2 eggplants, sliced",
+            "1 cup marinara sauce",
+            "1 cup mozzarella, shredded",
+            "1/2 cup parmesan, grated",
+            "Breadcrumbs",
+            "Eggs"
+        ],
+        "directions": [
+            "Dip eggplant slices in egg then breadcrumbs; bake until tender.",
+            "Layer with marinara and cheese; bake until golden."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"eggplant\", \"red sauce\", \"cheese\", \"breadcrumbs\"],\n  \"cookingStyle\": \"baked\",\n  \"foodPresentation\": \"layered in a baking dish\",\n  \"garnishes\": [\"parsley\"],\n  \"portionSize\": \"Not visually identifiable\",\n  \"plateOrBowlType\": \"rectangular baking dish\",\n  \"colors\": [\"red\", \"black\", \"white\", \"brown\", \"green\", \"purple\"],\n  \"textures\": [\"smooth\", \"crunchy\", \"melted\"],\n  \"visibleSaucesOrToppings\": [\"red sauce\", \"melted cheese\"]\n}"
+    },
+    {
+        "id": 35,
+        "name": "Moroccan Chickpea Stew",
+        "cuisine": "Moroccan",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "1 onion, chopped",
+            "2 garlic cloves, minced",
+            "1 can chickpeas",
+            "1 can diced tomatoes",
+            "1 teaspoon cumin",
+            "1 teaspoon coriander",
+            "1/2 teaspoon cinnamon",
+            "Olive oil",
+            "Fresh cilantro"
+        ],
+        "directions": [
+            "Saut\u00e9 onion and garlic; add spices.",
+            "Add chickpeas and tomatoes; simmer 15-20 minutes.",
+            "Garnish with cilantro and serve."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"chickpeas\", \"diced tomatoes\", \"fresh herbs\"],\n  \"cooking_style\": \"Not visually identifiable\",\n  \"food_presentation\": \"The stew is served in a decorative ceramic bowl.\",\n  \"garnishes\": [\"fresh herbs\"],\n  \"portion_size\": \"A single serving\",\n  \"plate_or_bowl_type\": \"Decorative ceramic bowl with a brown exterior and blue patterned interior\",\n  \"colors\": [\"orange-red broth\", \"light brown chickpeas\", \"red diced tomatoes\", \"green fresh herbs\"],\n  \"textures\": [\"smooth broth\", \"soft chickpeas\", \"diced tomatoes\", \"fresh herbs\"],\n  \"visible_sauces_or_toppings\": [\"red broth\", \"spices or seasoning on top\"]\n}"
+    },
+    {
+        "id": 36,
+        "name": "Crunchy Cabbage Slaw",
+        "cuisine": "American",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "0 mins",
+        "total_time": "15 mins",
+        "ingredients": [
+            "1/2 head cabbage, shredded",
+            "1 carrot, shredded",
+            "1/4 cup mayonnaise",
+            "2 tablespoons rice vinegar",
+            "1 teaspoon sugar",
+            "Salt and pepper"
+        ],
+        "directions": [
+            "Mix dressing ingredients.",
+            "Toss with shredded cabbage and carrot.",
+            "Chill slightly before serving."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"shredded cabbage\", \"shredded carrots\", \"black pepper\"],\n  \"cooking_style\": \"Not visually identifiable\",\n  \"food_presentation\": \"The Crunchy Cabbage Slaw is presented in a blue-green ceramic bowl, surrounded by various ingredients and condiments.\",\n  \"garnishes\": \"None visible\",\n  \"portion_size\": \"A generous serving\",\n  \"plate_or_bowl_type\": \"Blue-green ceramic bowl\",\n  \"colors\": [\"green\", \"orange\", \"white\", \"black\"],\n  \"textures\": [\"shredded\", \"crunchy\"],\n  \"visible_sauces_or_toppings\": [\"mayonnaise-like sauce in a separate bowl\"]\n}"
+    },
+    {
+        "id": 37,
+        "name": "Ceviche de Pescado",
+        "cuisine": "Peruvian",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "0 mins",
+        "total_time": "15 mins",
+        "ingredients": [
+            "400g white fish (like sea bass), diced",
+            "Juice of 2 limes",
+            "1/2 red onion, thinly sliced",
+            "Chili peppers, finely chopped",
+            "Cilantro",
+            "Salt to taste"
+        ],
+        "directions": [
+            "Cure fish in lime juice for about 10-15 minutes until opaque.",
+            "Mix with onion, chili, and cilantro; season and serve."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"raw fish\", \"red onion\", \"red chili peppers\", \"cilantro\", \"lime\"],\n  \"cooking_style\": \"Not visually identifiable\",\n  \"food_presentation\": \"The dish is presented in a bowl, garnished with cilantro and a lime slice on top.\",\n  \"garnishes\": [\"cilantro\", \"lime slice\"],\n  \"portion_size\": \"The dish appears to be a single serving.\",\n  \"plate_or_bowl_type\": \"Ceramic bowl\",\n  \"colors\": [\"white\", \"red\", \"green\", \"purple\"],\n  \"textures\": [\"raw fish appears smooth\", \"onions appear crunchy\", \"herbs appear fresh\"],\n  \"visible_sauces_or_toppings\": [\"Not visually identifiable\"]\n}"
+    },
+    {
+        "id": 38,
+        "name": "Thai Basil Chicken (Pad Krapow Gai)",
+        "cuisine": "Thai",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "8 mins",
+        "total_time": "18 mins",
+        "ingredients": [
+            "200g minced chicken",
+            "2 cloves garlic, minced",
+            "1 chili, chopped",
+            "1 tablespoon soy sauce",
+            "1 tablespoon fish sauce",
+            "Basil leaves",
+            "Rice to serve"
+        ],
+        "directions": [
+            "Saut\u00e9 garlic and chili in oil until fragrant.",
+            "Add chicken and cook through.",
+            "Stir in soy and fish sauces; toss with basil until wilted.",
+            "Serve over steamed rice."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"chicken\", \"basil leaves\", \"red chili peppers\", \"garlic\", \"rice\"],\n  \"cookingStyle\": \"stir-fry\",\n  \"foodPresentation\": \"served on a plate with a side of rice\",\n  \"garnishes\": [\"basil leaves\", \"red chili peppers\"],\n  \"portionSize\": \"a generous serving\",\n  \"plateType\": \"ceramic plate with a decorative pattern\",\n  \"colors\": [\"green\", \"red\", \"white\", \"brown\"],\n  \"textures\": [\"soft\", \"crunchy\"],\n  \"visibleSauces\": [\"a dark brown sauce\"],\n  \"additionalItems\": [\"small bowls with seasonings\", \"scattered spices and herbs\"]\n}"
+    },
+    {
+        "id": 39,
+        "name": "Caprese Salad",
+        "cuisine": "Italian",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "0 mins",
+        "total_time": "10 mins",
+        "ingredients": [
+            "Tomatoes, sliced",
+            "Fresh mozzarella, sliced",
+            "Fresh basil leaves",
+            "Olive oil",
+            "Balsamic glaze",
+            "Salt and pepper"
+        ],
+        "directions": [
+            "Alternate tomato and mozzarella slices on a plate.",
+            "Top with basil; drizzle olive oil and balsamic glaze.",
+            "Season with salt and pepper."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"tomatoes\", \"mozzarella cheese\", \"basil leaves\"],\n  \"cookingStyle\": \"Not visually identifiable\",\n  \"foodPresentation\": \"Sliced ingredients arranged in a circular pattern on a plate\",\n  \"garnishes\": [\"basil leaves\"],\n  \"portionSize\": \"A single serving on a large round plate\",\n  \"plateOrBowlType\": \"Large round white plate\",\n  \"colors\": [\"red\", \"white\", \"green\", \"brown\"],\n  \"textures\": [\"smooth\", \"leafy\"],\n  \"visibleSaucesOrToppings\": [\"balsamic glaze\", \"olive oil\", \"salt and pepper\"]\n}"
+    },
+    {
+        "id": 40,
+        "name": "Pumpkin Risotto",
+        "cuisine": "Italian",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "40 mins",
+        "total_time": "55 mins",
+        "ingredients": [
+            "1 cup arborio rice",
+            "1 cup pumpkin puree",
+            "1/2 onion, finely chopped",
+            "3 cups vegetable broth",
+            "1/4 cup parmesan",
+            "2 tablespoons butter",
+            "Olive oil"
+        ],
+        "directions": [
+            "Saut\u00e9 onion in olive oil until translucent.",
+            "Add rice and toast 1-2 minutes.",
+            "Add warm broth gradually, stirring until absorbed.",
+            "Stir in pumpkin puree, butter, and parmesan; season to taste."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"rice\", \"pumpkin\", \"red onion\", \"butter\", \"salt\", \"peppercorns\", \"garlic\"],\n  \"cookingStyle\": \"Not visually identifiable\",\n  \"foodPresentation\": \"The risotto is being prepared in a pan, with ingredients arranged in sections.\",\n  \"garnishes\": [\"red onion\"],\n  \"portionSize\": \"Not visually identifiable\",\n  \"plateOrBowlType\": \"Pan\",\n  \"colors\": [\"orange\", \"white\", \"yellow\", \"red\", \"brown\", \"black\"],\n  \"textures\": [\"creamy\", \"cubed\", \"sliced\", \"solid\"],\n  \"visibleSaucesOrToppings\": [\"melted butter\"]\n}"
+    },
+    {
+        "id": 41,
+        "name": "Garlic Butter Shrimp",
+        "cuisine": "American",
+        "servings": 2,
+        "prep_time": "5 mins",
+        "cook_time": "6 mins",
+        "total_time": "11 mins",
+        "ingredients": [
+            "200g shrimp, peeled",
+            "2 tablespoons butter",
+            "2 cloves garlic, minced",
+            "Lemon juice",
+            "Parsley"
+        ],
+        "directions": [
+            "Melt butter; add garlic and cook 1 minute.",
+            "Add shrimp; cook until pink.",
+            "Squeeze lemon juice; garnish with parsley and serve."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"shrimp\", \"garlic\", \"parsley\", \"lemon\"],\n  \"cooking_style\": \"pan-seared\",\n  \"food_presentation\": \"shrimp cooked in a sauce, served in a pan\",\n  \"garnishes\": [\"parsley\"],\n  \"portion_size\": \"multiple servings\",\n  \"plate_or_bowl_type\": \"black pan\",\n  \"colors\": [\"orange\", \"yellow\", \"green\", \"white\", \"brown\"],\n  \"textures\": [\"soft\", \"liquid\"],\n  \"visible_sauces_or_toppings\": [\"garlic butter sauce\"]\n}"
+    },
+    {
+        "id": 42,
+        "name": "Roasted Red Pepper Hummus",
+        "cuisine": "Middle Eastern",
+        "servings": 6,
+        "prep_time": "15 mins",
+        "cook_time": "0 mins",
+        "total_time": "15 mins",
+        "ingredients": [
+            "1 can chickpeas",
+            "1 roasted red pepper",
+            "2 tablespoons tahini",
+            "1 clove garlic",
+            "Juice of 1 lemon",
+            "Salt and olive oil"
+        ],
+        "directions": [
+            "Blend all ingredients until smooth.",
+            "Drizzle with olive oil and serve with pita or veggies."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"hummus\", \"red peppers\", \"chickpeas\", \"olive oil\", \"salt\", \"pepper\", \"red chili peppers\", \"garlic\", \"pita bread\"],\n  \"cooking_style\": \"Not visually identifiable\",\n  \"food_presentation\": \"The hummus is presented in a dark bowl with a decorative swirl pattern on top.\",\n  \"garnishes\": [\"red pepper slices\", \"chickpeas\", \"red chili peppers\"],\n  \"portion_size\": \"The hummus fills the bowl, with a generous serving size.\",\n  \"plate_or_bowl_type\": \"Dark-colored, possibly ceramic bowl\",\n  \"colors\": [\"beige\", \"red\", \"green\", \"yellow\", \"brown\", \"white\"],\n  \"textures\": [\"smooth\", \"crunchy\"],\n  \"visible_sauces_or_toppings\": [\"olive oil\"]\n}"
+    },
+    {
+        "id": 43,
+        "name": "Garlic Naan",
+        "cuisine": "Indian",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "8 mins",
+        "total_time": "28 mins",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "1/2 cup yogurt",
+            "1/2 cup warm water",
+            "2 tablespoons oil",
+            "1 teaspoon yeast",
+            "Garlic, minced",
+            "Salt"
+        ],
+        "directions": [
+            "Mix ingredients to form dough; knead until smooth.",
+            "Let rise 1 hour; divide and roll into rounds.",
+            "Cook on hot skillet 2-3 minutes per side.",
+            "Brush with garlic butter and serve."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"garlic naan\", \"garlic cloves\", \"herbs\", \"oil or butter\"],\n  \"cooking_style\": \"baked or grilled\",\n  \"food_presentation\": \"arranged in a circular pattern on a plate\",\n  \"garnishes\": [\"garlic cloves\", \"herbs\"],\n  \"portion_size\": \"5 pieces of naan\",\n  \"plate_or_bowl_type\": \"ceramic plate\",\n  \"colors\": [\"golden brown\", \"white\", \"green\", \"brown\"],\n  \"textures\": [\"soft\", \"crusty\", \"smooth\"],\n  \"visible_sauces_or_toppings\": [\"oil or butter\", \"herbs\"]\n}"
+    },
+    {
+        "id": 44,
+        "name": "Butter Chicken",
+        "cuisine": "Indian",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "500g chicken, cubed",
+            "2 tablespoons butter",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 teaspoon garam masala",
+            "1 can tomato sauce",
+            "1/2 cup cream",
+            "Salt to taste"
+        ],
+        "directions": [
+            "Saut\u00e9 onion and garlic in butter.",
+            "Add chicken and cook until sealed.",
+            "Stir in tomato sauce and garam masala; simmer 15 minutes.",
+            "Stir in cream; season and serve with rice or naan."
+        ],
+        "image_description": "{\n    \"visibleIngredients\": [\"chicken\", \"onions\", \"green leaves\", \"almonds\", \"green peas\"],\n    \"cookingStyle\": \"Not visually identifiable\",\n    \"foodPresentation\": \"The dish is presented in a bowl.\",\n    \"garnishes\": [\"green leaves\", \"green peas\"],\n    \"portionSize\": \"The bowl is filled to the top with the dish.\",\n    \"plateOrBowlType\": \"Deep blue ceramic bowl\",\n    \"colors\": [\"reddish-orange sauce\", \"orange chicken\", \"white onions\", \"green leaves\", \"brown almonds\"],\n    \"textures\": [\"smooth sauce\", \"cubed chicken\", \"sliced onions\", \"whole almonds\"],\n    \"visibleSaucesOrToppings\": [\"reddish-orange sauce\"]\n}"
+    },
+    {
+        "id": 45,
+        "name": "Coconut Curry Lentil Soup",
+        "cuisine": "Indian",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "1 cup red lentils",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 tablespoon curry powder",
+            "1 can coconut milk",
+            "2 cups vegetable broth",
+            "Salt to taste"
+        ],
+        "directions": [
+            "Saut\u00e9 onion and garlic; add curry powder.",
+            "Add lentils, coconut milk, and broth; simmer 25 minutes.",
+            "Season and serve hot."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"lentils\", \"onions\", \"red chili peppers\", \"green herbs\", \"black seeds\"],\n  \"cooking_style\": \"Not visually identifiable\",\n  \"food_presentation\": \"The soup is served in a brown ceramic bowl.\",\n  \"garnishes\": [\"onions\", \"red chili peppers\", \"green herbs\", \"black seeds\"],\n  \"portion_size\": \"The bowl is filled to the top with soup.\",\n  \"plate_or_bowl_type\": \"Brown ceramic bowl\",\n  \"colors\": [\"orange\", \"yellow\", \"white\", \"red\", \"green\", \"black\", \"brown\"],\n  \"textures\": [\"smooth\", \"grainy\"],\n  \"visible_sauces_or_toppings\": [\"white sauce or cream\"]\n}"
+    },
+    {
+        "id": 46,
+        "name": "Gyro Wrap",
+        "cuisine": "Greek",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "15 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "Gyro meat (lamb or chicken) or substitute with sliced chicken",
+            "Pita breads",
+            "Tomato, onion, cucumber slices",
+            "Tzatziki sauce"
+        ],
+        "directions": [
+            "Cook gyro meat until browned.",
+            "Warm pita; fill with meat and vegetables.",
+            "Top with tzatziki."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"meat\", \"tomato\", \"cucumber\", \"onion\", \"tzatziki sauce\", \"pita bread\", \"herbs\"],\n  \"cookingStyle\": \"grilled\",\n  \"foodPresentation\": \"wrapped\",\n  \"garnishes\": [\"herbs\"],\n  \"portionSize\": \"single serving\",\n  \"plateOrBowlType\": \"wooden board with parchment paper\",\n  \"colors\": [\"red\", \"green\", \"white\", \"brown\"],\n  \"textures\": [\"soft\", \"crunchy\", \"smooth\"],\n  \"visibleSaucesOrToppings\": [\"tzatziki sauce\"]\n}"
+    },
+    {
+        "id": 47,
+        "name": "Pollo a la Brasa (Peruvian Roast Chicken)",
+        "cuisine": "Peruvian",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "45 mins",
+        "total_time": "1 hour",
+        "ingredients": [
+            "4 chicken thighs",
+            "2 cloves garlic, minced",
+            "1 teaspoon cumin",
+            "1 teaspoon paprika",
+            "Salt and pepper",
+            "Lime wedges"
+        ],
+        "directions": [
+            "Marinate chicken with garlic, cumin, paprika, salt, and pepper.",
+            "Roast at 200\u00b0C (400\u00b0F) for 40-45 minutes until cooked.",
+            "Serve with lime wedges."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"chicken\", \"lime\", \"garlic\", \"salt\", \"spices\"],\n  \"cookingStyle\": \"roasted\",\n  \"foodPresentation\": \"whole chicken cut into pieces, arranged in a circular pattern on a plate\",\n  \"garnishes\": [\"lime slices\", \"herbs\"],\n  \"portionSize\": \"one whole chicken\",\n  \"plateType\": \"ceramic or clay plate\",\n  \"colors\": [\"brown\", \"green\", \"white\", \"orange\"],\n  \"textures\": [\"glossy chicken skin\", \"rough plate surface\"],\n  \"visibleSaucesOrToppings\": [\"seasonings on chicken\"]\n}"
+    },
+    {
+        "id": 48,
+        "name": "Mango Salsa Chicken",
+        "cuisine": "American",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "20 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "4 chicken breasts",
+            "1 mango, diced",
+            "1 red onion, diced",
+            "Cilantro, chopped",
+            "Lime juice",
+            "Salt"
+        ],
+        "directions": [
+            "Season chicken and sear in a pan.",
+            "Top with mango salsa (mango, onion, cilantro, lime juice).",
+            "Bake 10 minutes to finish cooking."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"chicken breast\", \"mango\", \"red onion\", \"red pepper\", \"cilantro\", \"lime\"],\n  \"cookingStyle\": \"grilled\",\n  \"foodPresentation\": \"four chicken breasts arranged in a circular pattern on a plate, topped with mango salsa\",\n  \"garnishes\": [\"cilantro\", \"lime wedges\"],\n  \"portionSize\": \"four servings\",\n  \"plateType\": \"round ceramic plate with brown rim\",\n  \"colors\": [\"white\", \"brown\", \"yellow\", \"orange\", \"red\", \"green\"],\n  \"textures\": [\"grilled\", \"diced\", \"smooth\"],\n  \"visibleSaucesOrToppings\": [\"mango salsa\", \"yellow sauce\"]\n}"
+    },
+    {
+        "id": 49,
+        "name": "Rice Paper Rolls with Peanut Dip",
+        "cuisine": "Vietnamese",
+        "servings": 4,
+        "prep_time": "25 mins",
+        "cook_time": "0 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "Rice paper sheets",
+            "Rice noodles",
+            "Shrimp or tofu",
+            "Fresh herbs (mint, basil)",
+            "Carrots, cucumber, lettuce",
+            "Peanut dipping sauce"
+        ],
+        "directions": [
+            "Soak rice papers; fill with noodles, greens, and protein.",
+            "Roll tightly; serve with peanut dip."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"rice paper rolls\", \"shrimp\", \"carrots\", \"cucumber\", \"lettuce\", \"mint\", \"rice noodles\", \"tofu\", \"peanuts\", \"sesame seeds\"],\n  \"cookingStyle\": \"Not visually identifiable\",\n  \"foodPresentation\": \"The dish is presented on a round wicker plate with a central bowl of peanut dip.\",\n  \"garnishes\": [\"mint leaves\", \"sesame seeds\"],\n  \"portionSize\": \"Multiple servings\",\n  \"plateOrBowlType\": [\"wicker plate\", \"ceramic bowls\"],\n  \"colors\": [\"green\", \"orange\", \"white\", \"brown\", \"pink\"],\n  \"textures\": [\"soft\", \"crunchy\", \"translucent\"],\n  \"visibleSaucesOrToppings\": [\"peanut dip\"]\n}"
+    },
+    {
+        "id": 50,
+        "name": "Beef Nachos",
+        "cuisine": "Mexican",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "10 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "Tortilla chips",
+            "Ground beef",
+            "Cheddar cheese",
+            "Refried beans (optional)",
+            "Salsa, sour cream, jalapenos"
+        ],
+        "directions": [
+            "Cook beef with seasoning.",
+            "Layer chips, beef, and cheese; bake until cheese melts.",
+            "Top with beans, salsa, sour cream, and jalapenos."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"tortilla chips\", \"ground beef\", \"beans\", \"sour cream\", \"cheese\", \"jalapenos\", \"tomatoes\"],\n  \"cooking_style\": \"Not visually identifiable\",\n  \"food_presentation\": \"The nachos are arranged on a metal platter, divided into sections with different toppings.\",\n  \"garnishes\": [\"jalapenos\", \"green onions\"],\n  \"portion_size\": \"Large\",\n  \"plate_or_bowl_type\": \"Metal platter\",\n  \"colors\": [\"yellow\", \"brown\", \"white\", \"green\", \"red\", \"orange\"],\n  \"textures\": [\"crunchy\", \"soft\", \"melted\"],\n  \"visible_sauces_or_toppings\": [\"sour cream\", \"cheese\", \"salsa visible in surrounding bowls\"]\n}"
+    },
+    {
+        "id": 51,
+        "name": "Herbed Chicken Skewers",
+        "cuisine": "Mediterranean",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "12 mins",
+        "total_time": "32 mins",
+        "ingredients": [
+            "4 chicken thighs, cubed",
+            "Olive oil",
+            "Herbs (rosemary, thyme)",
+            "Lemon wedges",
+            "Salt and pepper"
+        ],
+        "directions": [
+            "Thread chicken onto skewers after marinating briefly.",
+            "Grill until cooked through, basting with oil and herbs.",
+            "Serve with lemon wedges."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"chicken\", \"rosemary\", \"onion\", \"lemon\"],\n  \"cookingStyle\": \"grilled\",\n  \"foodPresentation\": \"skewers arranged on a plate\",\n  \"garnishes\": [\"rosemary sprigs\"],\n  \"portionSize\": \"multiple skewers\",\n  \"plateType\": \"ceramic plate\",\n  \"colors\": [\"brown\", \"green\", \"yellow\", \"gray\"],\n  \"textures\": [\"grilled\", \"herbaceous\", \"smooth\"],\n  \"visibleSauces\": [\"oil with herbs\"]\n}"
+    },
+    {
+        "id": 52,
+        "name": "Coconut Shrimp Curry",
+        "cuisine": "Caribbean",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "20 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "Shrimp",
+            "Coconut milk",
+            "Curry powder",
+            "Onion, garlic",
+            "Bell pepper",
+            "Salt"
+        ],
+        "directions": [
+            "Saut\u00e9 onion and garlic; add curry powder.",
+            "Add coconut milk and vegetables; simmer 10 minutes.",
+            "Add shrimp; cook until pink and serve."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"shrimp\", \"onions\", \"peppers\", \"green chili\", \"herbs\"],\n  \"cooking_style\": \"Not visually identifiable\",\n  \"food_presentation\": \"The dish is presented in a pan.\",\n  \"garnishes\": [\"herbs\"],\n  \"portion_size\": \"Not visually identifiable\",\n  \"plate_or_bowl_type\": \"Pan\",\n  \"colors\": [\"yellow\", \"orange\", \"green\", \"red\", \"white\"],\n  \"textures\": [\"smooth\", \"lumpy\"],\n  \"visible_sauces_or_toppings\": [\"yellow curry sauce\"]\n}"
+    },
+    {
+        "id": 53,
+        "name": "Herbed Mushroom Risotto",
+        "cuisine": "Italian",
+        "servings": 4,
+        "prep_time": "10 mins",
+        "cook_time": "25 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "1 cup arborio rice",
+            "Mushrooms, sliced",
+            "1 small onion, chopped",
+            "1/2 cup white wine",
+            "1/2 cup parmesan",
+            "Broth"
+        ],
+        "directions": [
+            "Saut\u00e9 onion and mushrooms; add rice and toast.",
+            "Deglaze with wine; add broth gradually until creamy."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"mushrooms\", \"herbs\", \"cheese\", \"rice\"],\n  \"cookingStyle\": \"Not visually identifiable\",\n  \"foodPresentation\": \"The risotto is served in a brown ceramic bowl, garnished with herbs and mushrooms on top.\",\n  \"garnishes\": [\"herbs\", \"mushrooms\"],\n  \"portionSize\": \"A single serving in a bowl\",\n  \"plateOrBowlType\": \"Brown ceramic bowl\",\n  \"colors\": [\"cream\", \"brown\", \"green\", \"white\"],\n  \"textures\": [\"creamy\", \"soft\", \"mushroom caps\"],\n  \"visibleSaucesOrToppings\": [\"Not visually identifiable\"]\n}"
+    },
+    {
+        "id": 54,
+        "name": "Lemon Ricotta Pancakes",
+        "cuisine": "American",
+        "servings": 4,
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "1 cup flour",
+            "1/2 cup ricotta",
+            "1 egg",
+            "1/2 cup milk",
+            "Zest of lemon",
+            "Butter for cooking"
+        ],
+        "directions": [
+            "Mix all ingredients into a smooth batter.",
+            "Cook on a hot skillet until bubbles form; flip and cook through."
+        ],
+        "image_description": "{\n    \"visible_ingredients\": [\"pancake\", \"powdered sugar\", \"lemon\", \"butter\", \"yellow sauce or topping\"],\n    \"cooking_style\": \"Not visually identifiable\",\n    \"food_presentation\": \"Pancake centered on a metal platter, surrounded by various toppings and ingredients\",\n    \"garnishes\": [\"lemon slice\"],\n    \"portion_size\": \"Single serving\",\n    \"plate_or_bowl_type\": \"Metal platter\",\n    \"colors\": [\"yellow\", \"white\", \"brown\"],\n    \"textures\": [\"powdery\", \"smooth\", \"buttery\"],\n    \"visible_sauces_or_toppings\": [\"yellow sauce or topping\", \"butter\", \"powdered sugar\", \"white liquid in small bowls\"]\n}"
+    },
+    {
+        "id": 55,
+        "name": "Egg Fried Rice",
+        "cuisine": "Chinese",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "8 mins",
+        "total_time": "18 mins",
+        "ingredients": [
+            "Cooked rice",
+            "Eggs",
+            "Green onions",
+            "Soy sauce",
+            "Peas and carrots"
+        ],
+        "directions": [
+            "Scramble eggs in a wok; set aside.",
+            "Stir-fry vegetables, add rice, then eggs.",
+            "Season with soy sauce and scallions."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"rice\", \"eggs\", \"peas\", \"carrots\", \"green onions\", \"tofu\"],\n  \"cookingStyle\": \"pan-fried\",\n  \"foodPresentation\": \"The dish is presented in a pan with four fried eggs on top of the rice mixture.\",\n  \"garnishes\": [\"green onions\", \"sesame seeds\"],\n  \"portionSize\": \"Large, family-style serving\",\n  \"plateOrBowlType\": \"Cast iron pan\",\n  \"colors\": [\"brown\", \"yellow\", \"green\", \"orange\", \"white\"],\n  \"textures\": [\"soft\", \"crispy\"],\n  \"visibleSaucesOrToppings\": [\"soy sauce\", \"sesame seeds\"]\n}"
+    },
+    {
+        "id": 56,
+        "name": "Okonomiyaki (Japanese Pancake)",
+        "cuisine": "Japanese",
+        "servings": 2,
+        "prep_time": "20 mins",
+        "cook_time": "15 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "Cabbage, shredded",
+            "Flour, water, egg batter",
+            "Thinly sliced pork or shrimp",
+            "Okonomiyaki sauce",
+            "Mayonnaise"
+        ],
+        "directions": [
+            "Mix batter with cabbage.",
+            "Cook on a griddle; top with meat and flip.",
+            "Brush with sauce and drizzle with mayo."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"shrimp\", \"cabbage\", \"mayonnaise\", \"red sauce\", \"powdered seasoning\"],\n  \"cooking_style\": \"pan-fried\",\n  \"food_presentation\": \"round pancake on a bed of shredded cabbage\",\n  \"garnishes\": [\"shrimp on top\", \"powdered seasoning\"],\n  \"portion_size\": \"single serving\",\n  \"plate_or_bowl_type\": \"round ceramic plate\",\n  \"colors\": [\"brown\", \"white\", \"red\", \"green\", \"beige\"],\n  \"textures\": [\"crispy\", \"soft\", \"smooth\", \"powdery\"],\n  \"visible_sauces_or_toppings\": [\"mayonnaise\", \"red sauce\"]\n}"
+    },
+    {
+        "id": 57,
+        "name": "Herb-Ceta Pasta with Lemon",
+        "cuisine": "Italian",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "12 mins",
+        "total_time": "22 mins",
+        "ingredients": [
+            "Pasta of choice",
+            "Lemon zest and juice",
+            "Fresh herbs (parsley, basil)",
+            "Olive oil",
+            "Parmesan"
+        ],
+        "directions": [
+            "Cook pasta; reserve some pasta water.",
+            "Toss with lemon zest, juice, herbs, and olive oil.",
+            "Add a splash of pasta water; finish with parmesan."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"pasta\", \"lemon slices\", \"basil leaves\", \"herbs\", \"grated cheese\"],\n  \"cookingStyle\": \"Not visually identifiable\",\n  \"foodPresentation\": \"Pasta is served in a bowl, topped with lemon slices, basil leaves, and grated cheese\",\n  \"garnishes\": [\"lemon slices\", \"basil leaves\"],\n  \"portionSize\": \"A single serving in a bowl\",\n  \"plateOrBowlType\": \"Ceramic bowl\",\n  \"colors\": [\"green\", \"yellow\", \"white\"],\n  \"textures\": [\"smooth pasta\", \"rough grated cheese\", \"leafy herbs\"],\n  \"visibleSaucesOrToppings\": [\"herb sauce or pesto\", \"grated cheese\"]\n}"
+    },
+    {
+        "id": 58,
+        "name": "Coconut Rice with Beans",
+        "cuisine": "Caribbean",
+        "servings": 4,
+        "prep_time": "10 mins",
+        "cook_time": "20 mins",
+        "total_time": "30 mins",
+        "ingredients": [
+            "Cooked rice",
+            "Coconut milk",
+            "Black beans",
+            "Garlic powder",
+            "Cilantro"
+        ],
+        "directions": [
+            "Simmer coconut milk with garlic powder; stir in beans and cilantro.",
+            "Serve over rice."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"rice\", \"black beans\", \"green onions\", \"red peppers\", \"coconut milk\", \"garlic\", \"parsley\", \"spices\", \"oil\"],\n  \"cookingStyle\": \"Not visually identifiable\",\n  \"foodPresentation\": \"The dish is presented in a large metal bowl with a wooden spoon inside. The bowl is surrounded by various ingredients and spices in smaller bowls.\",\n  \"garnishes\": [\"green onions\", \"parsley\"],\n  \"portionSize\": \"The main bowl appears to be a large serving or multiple servings.\",\n  \"plateOrBowlType\": \"The main dish is in a large metal bowl. Other ingredients are in various wooden and ceramic bowls.\",\n  \"colors\": [\"white\", \"black\", \"green\", \"red\", \"yellow\", \"brown\"],\n  \"textures\": [\"creamy\", \"soft\", \"granular\", \"liquid\"],\n  \"visibleSaucesOrToppings\": [\"coconut milk sauce\"]\n}"
+    },
+    {
+        "id": 59,
+        "name": "Baked Cod with Tomato and Olive",
+        "cuisine": "Mediterranean",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "Cod fillets",
+            "Tomatoes, chopped",
+            "Olives, sliced",
+            "Garlic, minced",
+            "Olive oil",
+            "Parsley"
+        ],
+        "directions": [
+            "Place cod in baking dish; top with tomatoes, olives, and garlic.",
+            "Drizzle with olive oil; bake at 200\u00b0C (400\u00b0F) for 12-15 minutes.",
+            "Garnish with parsley."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"fish\", \"tomatoes\", \"olives\", \"garlic\", \"parsley\", \"herbs\"],\n  \"cookingStyle\": \"baked\",\n  \"foodPresentation\": \"centered on plate\",\n  \"garnishes\": [\"parsley\"],\n  \"portionSize\": \"single serving\",\n  \"plateType\": \"ceramic plate\",\n  \"colors\": [\"white\", \"red\", \"green\", \"black\", \"brown\"],\n  \"textures\": [\"smooth\", \"chunky\"],\n  \"visibleSauces\": [\"olive oil sauce\"]\n}"
+    },
+    {
+        "id": 60,
+        "name": "Seared Tuna Ni\u00e7oise",
+        "cuisine": "French",
+        "servings": 2,
+        "prep_time": "15 mins",
+        "cook_time": "10 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "Tuna steak",
+            "Olives",
+            "Green beans",
+            "Potatoes, boiled",
+            "Eggs, hard-boiled",
+            "Lemon vinaigrette"
+        ],
+        "directions": [
+            "Sear tuna to desired doneness.",
+            "Boil beans and potatoes; assemble with eggs and olives.",
+            "Dress with lemon vinaigrette."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"tuna\", \"green beans\", \"potatoes\", \"eggs\", \"olives\", \"lemon\", \"radish\"],\n  \"cookingStyle\": \"grilled\",\n  \"foodPresentation\": \"arranged on a plate\",\n  \"garnishes\": [\"herbs\", \"lemon slices\"],\n  \"portionSize\": \"single serving\",\n  \"plateType\": \"round ceramic plate\",\n  \"colors\": [\"pink\", \"green\", \"yellow\", \"brown\", \"white\"],\n  \"textures\": [\"smooth\", \"grilled\", \"soft\"],\n  \"visibleSaucesOrToppings\": [\"Not visually identifiable\"]\n}"
+    },
+    {
+        "id": 61,
+        "name": "Harissa Chickpea Bowl",
+        "cuisine": "Moroccan",
+        "servings": 3,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "Chickpeas",
+            "Quinoa or rice",
+            "Harissa paste",
+            "Lemon yogurt sauce",
+            "Cucumber, tomato, herbs"
+        ],
+        "directions": [
+            "Roast chickpeas with harissa 15-20 minutes.",
+            "Serve over quinoa with fresh vegetables and lemon yogurt sauce."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"couscous\", \"chickpeas\", \"tomatoes\", \"cucumber\", \"green onions\", \"white sauce\"],\n  \"cooking_style\": \"Not visually identifiable\",\n  \"food_presentation\": \"The ingredients are arranged in sections on top of a bed of couscous in a decorative bowl.\",\n  \"garnishes\": [\"green onions\", \"red spice powder\"],\n  \"portion_size\": \"A single serving in a large bowl\",\n  \"plate_or_bowl_type\": \"Decorative ceramic bowl with intricate patterns\",\n  \"colors\": [\"white\", \"brown\", \"red\", \"green\", \"orange\"],\n  \"textures\": [\"smooth\", \"grainy\", \"crunchy\"],\n  \"visible_sauces_or_toppings\": [\"white sauce\", \"red sauce or spice\"]\n}"
+    },
+    {
+        "id": 62,
+        "name": "Salmon with Dill and Mustard Glaze",
+        "cuisine": "Nordic",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "12 mins",
+        "total_time": "22 mins",
+        "ingredients": [
+            "Salmon fillets",
+            "Dijon mustard",
+            "Dill, chopped",
+            "Honey",
+            "Salt and pepper"
+        ],
+        "directions": [
+            "Mix glaze with mustard, dill, and honey.",
+            "Brush on salmon; bake or pan-sear until flaky."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"salmon\", \"dill\", \"sauce or glaze\", \"oil\", \"salt\"],\n  \"cooking_style\": \"grilled or broiled\",\n  \"food_presentation\": \"two salmon fillets on a baking tray\",\n  \"garnishes\": [\"dill sprigs\"],\n  \"portion_size\": \"two large fillets\",\n  \"plate_or_bowl_type\": \"rectangular baking tray\",\n  \"colors\": [\"orange-pink\", \"green\", \"yellow\", \"brown\", \"white\"],\n  \"textures\": [\"smooth\", \"herbaceous\", \"glossy\"],\n  \"visible_sauces_or_toppings\": [\"yellow sauce or glaze\", \"oil\"]\n}"
+    },
+    {
+        "id": 63,
+        "name": "Butter Lettuce Salad with Avocado",
+        "cuisine": "American",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "0 mins",
+        "total_time": "10 mins",
+        "ingredients": [
+            "Butter lettuce",
+            "Avocado slices",
+            "Cherry tomatoes",
+            "Lemon vinaigrette"
+        ],
+        "directions": [
+            "Toss greens with avocado and tomatoes.",
+            "Drizzle with vinaigrette and serve."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"lettuce\", \"avocado\", \"cherry tomatoes\"],\n  \"cookingStyle\": \"Not visually identifiable\",\n  \"foodPresentation\": \"The salad is presented in a white bowl with a brown rim, placed on a green napkin.\",\n  \"garnishes\": \"Not visually identifiable\",\n  \"portionSize\": \"The salad fills the bowl.\",\n  \"plateOrBowlType\": \"White ceramic bowl with a brown rim\",\n  \"colors\": [\"green\", \"red\", \"yellow\"],\n  \"textures\": [\"crunchy\", \"smooth\"],\n  \"visibleSaucesOrToppings\": [\"yellow dressing being poured from a small white pitcher\"]\n}"
+    },
+    {
+        "id": 64,
+        "name": "Eggplant Caponata",
+        "cuisine": "Italian",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "25 mins",
+        "total_time": "45 mins",
+        "ingredients": [
+            "Eggplant, diced",
+            "Celery, chopped",
+            "Tomatoes, chopped",
+            "Olives, chopped",
+            "Capers",
+            "Vinegar and sugar"
+        ],
+        "directions": [
+            "Saut\u00e9 eggplant until soft.",
+            "Add vegetables and simmer with vinegar and sugar until thick.",
+            "Serve warm or at room temperature."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"eggplant\", \"tomatoes\", \"celery\", \"green olives\", \"caper\"],\n  \"cooking_style\": \"Not visually identifiable\",\n  \"food_presentation\": \"The ingredients are mixed and presented in a bowl.\",\n  \"garnishes\": [\"parsley\"],\n  \"portion_size\": \"The dish appears to be a generous serving.\",\n  \"plate_or_bowl_type\": \"Ceramic bowl with a brown rim and green interior\",\n  \"colors\": [\"green\", \"red\", \"purple\", \"brown\"],\n  \"textures\": [\"chopped vegetables\", \"glossy sauce\"],\n  \"visible_sauces_or_toppings\": [\"dark sauce or dressing\"]\n}"
+    },
+    {
+        "id": 65,
+        "name": "Avocado Toast with Poached Egg",
+        "cuisine": "American",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "5 mins",
+        "total_time": "15 mins",
+        "ingredients": [
+            "Bread slices",
+            "Ripe avocado",
+            "Eggs",
+            "Lemon juice",
+            "Salt and pepper"
+        ],
+        "directions": [
+            "Toast bread; mash avocado with lemon, salt, and pepper.",
+            "Poach eggs; place on toast and serve."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"toast\", \"avocado\", \"poached eggs\", \"lemon wedges\", \"salt\", \"pepper\", \"herbs\"],\n  \"cooking_style\": \"toasted, poached\",\n  \"food_presentation\": \"Two slices of toast topped with mashed avocado, sliced avocado, and poached eggs on a round plate.\",\n  \"garnishes\": [\"lemon wedges\", \"herbs\", \"pepper\"],\n  \"portion_size\": \"Two slices of toast with two poached eggs\",\n  \"plate_or_bowl_type\": \"Round ceramic plate\",\n  \"colors\": [\"green\", \"yellow\", \"white\", \"brown\", \"gray\"],\n  \"textures\": [\"smooth\", \"crusty\", \"runny\"],\n  \"visible_sauces_or_toppings\": [\"olive oil in a small bowl nearby\", \"egg yolk running from the poached eggs\"]\n}"
+    },
+    {
+        "id": 66,
+        "name": "Herbed Tomato Soup",
+        "cuisine": "American",
+        "servings": 4,
+        "prep_time": "10 mins",
+        "cook_time": "25 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "Tomatoes, chopped",
+            "Onion",
+            "Garlic",
+            "Herbs (basil, thyme)",
+            "Vegetable broth",
+            "Cream or milk"
+        ],
+        "directions": [
+            "Saut\u00e9 onion and garlic; add tomatoes and broth.",
+            "Simmer 20 minutes; blend until smooth.",
+            "Stir in cream and herbs; season and serve."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"tomatoes\", \"basil\", \"thyme\", \"garlic\", \"onion\", \"cream or white sauce\", \"herbs or spices\"],\n  \"cooking_style\": \"Not visually identifiable\",\n  \"food_presentation\": \"The soup is served in a black bowl, garnished with sliced tomatoes, basil leaves, and thyme sprigs.\",\n  \"garnishes\": [\"sliced tomatoes\", \"basil leaves\", \"thyme sprigs\"],\n  \"portion_size\": \"The bowl appears to be a single serving.\",\n  \"plate_or_bowl_type\": \"Black bowl\",\n  \"colors\": [\"red\", \"green\", \"white\", \"black\", \"brown\"],\n  \"textures\": [\"smooth (soup)\", \"leafy (herbs)\", \"sliced (tomatoes)\"],\n  \"visible_sauces_or_toppings\": [\"cream or white sauce swirled on top\"]\n}"
+    },
+    {
+        "id": 67,
+        "name": "Pesto Gnocchi with Cherry Tomatoes",
+        "cuisine": "Italian",
+        "servings": 3,
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "Gnocchi",
+            "Pesto",
+            "Cherry tomatoes",
+            "Parmesan"
+        ],
+        "directions": [
+            "Boil gnocchi until floating; drain.",
+            "Toss with pesto and halved tomatoes; top with parmesan."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"gnocchi\", \"cherry tomatoes\", \"basil leaves\", \"pesto sauce\", \"shredded cheese\"],\n  \"cookingStyle\": \"Not visually identifiable\",\n  \"foodPresentation\": \"The gnocchi is tossed in pesto sauce and topped with halved cherry tomatoes and basil leaves.\",\n  \"garnishes\": [\"basil leaves\", \"shredded cheese\"],\n  \"portionSize\": \"A generous serving on a large plate\",\n  \"plateType\": \"Ceramic plate with a brown rim\",\n  \"colors\": [\"green\", \"red\", \"white\", \"brown\"],\n  \"textures\": [\"soft gnocchi\", \"smooth pesto sauce\", \"crunchy cherry tomatoes\", \"shredded cheese\"],\n  \"visibleSauces\": [\"pesto sauce\"]\n}"
+    },
+    {
+        "id": 68,
+        "name": "Paneer Butter Fry",
+        "cuisine": "Indian",
+        "servings": 4,
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "Paneer cubes",
+            "Butter",
+            "Onion",
+            "Tomato paste",
+            "Cream",
+            "Spices"
+        ],
+        "directions": [
+            "Saut\u00e9 onion in butter; add paneer and brown.",
+            "Add tomato paste and spices; simmer with a splash of cream."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"paneer\", \"onions\", \"tomatoes\", \"spices\", \"butter or cream\"],\n  \"cooking_style\": \"pan-seared or saut\u00e9ed\",\n  \"food_presentation\": \"served in a bowl\",\n  \"garnishes\": [\"green onions\", \"spices\"],\n  \"portion_size\": \"single serving\",\n  \"plate_or_bowl_type\": \"dark brown ceramic bowl\",\n  \"colors\": [\"red\", \"orange\", \"white\", \"brown\", \"green\"],\n  \"textures\": [\"cubed paneer\", \"sliced onions\", \"diced tomatoes\", \"smooth sauce\"],\n  \"visible_sauces_or_toppings\": [\"red sauce\", \"white butter or cream on top\"]\n}"
+    },
+    {
+        "id": 69,
+        "name": "Lemon Garlic Roasted Brussels Sprouts",
+        "cuisine": "American",
+        "servings": 4,
+        "prep_time": "10 mins",
+        "cook_time": "25 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "Brussels sprouts",
+            "Olive oil",
+            "Garlic",
+            "Lemon zest",
+            "Salt and pepper"
+        ],
+        "directions": [
+            "Toss sprouts with oil, garlic, salt, and pepper.",
+            "Roast at 200\u00b0C (400\u00b0F) for 20-25 minutes; finish with lemon zest."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"Brussels sprouts\", \"lemon slices\", \"garlic cloves\", \"peppercorns\", \"salt\"],\n  \"cooking_style\": \"Roasted\",\n  \"food_presentation\": \"The Brussels sprouts are piled high in a bowl, with some charred and others green.\",\n  \"garnishes\": [\"Lemon slices\", \"garlic cloves\"],\n  \"portion_size\": \"A generous serving\",\n  \"plate_or_bowl_type\": \"A brown ceramic bowl\",\n  \"colors\": [\"Green\", \"yellow\", \"brown\", \"white\"],\n  \"textures\": [\"Roasted and caramelized Brussels sprouts\", \"Juicy lemon slices\", \"Crunchy peppercorns\"],\n  \"visible_sauces_or_toppings\": [\"Not visually identifiable\"]\n}"
+    },
+    {
+        "id": 70,
+        "name": "Paneer Tarsi with Spinach",
+        "cuisine": "Indian",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "total_time": "30 mins",
+        "ingredients": [
+            "Paneer cubes",
+            "Spinach",
+            "Onion",
+            "Tomato",
+            "Garam masala"
+        ],
+        "directions": [
+            "Saut\u00e9 onion and tomato; add spices.",
+            "Stir in spinach until wilted; add paneer and simmer briefly."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"paneer\", \"spinach\", \"onion\", \"tomato\"],\n  \"cooking_style\": \"Not visually identifiable\",\n  \"food_presentation\": \"The dish is presented in a pan.\",\n  \"garnishes\": [\"spinach leaves\"],\n  \"portion_size\": \"Not visually identifiable\",\n  \"plate_or_bowl_type\": \"Pan\",\n  \"colors\": [\"green\", \"white\", \"red\", \"brown\"],\n  \"textures\": [\"cubed\", \"leafy\"],\n  \"visible_sauces_or_toppings\": [\"spices on paneer\"]\n}"
+    },
+    {
+        "id": 71,
+        "name": "Rendang Beef",
+        "cuisine": "Indonesian",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "2 hours",
+        "total_time": "2 hours 20 mins",
+        "ingredients": [
+            "Beef chunks",
+            "Coconut milk",
+            "Rendang paste",
+            "Lemongrass",
+            "Galangal",
+            "Bay leaf"
+        ],
+        "directions": [
+            "Simmer beef with coconut milk and rendang paste with aromatics until tender and thickened."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"beef\", \"green leaves\", \"sauce\"],\n  \"cooking_style\": \"Not visually identifiable\",\n  \"food_presentation\": \"The dish is presented in a large brown bowl.\",\n  \"garnishes\": [\"green leaves\"],\n  \"portion_size\": \"The bowl is filled with a generous portion of beef and sauce.\",\n  \"plate_or_bowl_type\": \"Large brown ceramic bowl\",\n  \"colors\": [\"brown\", \"green\", \"orange\"],\n  \"textures\": [\"chunky beef\", \"smooth sauce\", \"rough bowl surface\"],\n  \"visible_sauces_or_toppings\": [\"thick brown sauce\"]\n}"
+    },
+    {
+        "id": 72,
+        "name": "Chili Con Carne",
+        "cuisine": "American",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "40 mins",
+        "total_time": "55 mins",
+        "ingredients": [
+            "Ground beef",
+            "Chili powder",
+            "Tomato sauce",
+            "Kidney beans",
+            "Onion, garlic",
+            "Cumin"
+        ],
+        "directions": [
+            "Saut\u00e9 onion and garlic; add beef and brown.",
+            "Add spices, tomato sauce, and beans; simmer 25-30 minutes."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"ground beef\", \"red kidney beans\", \"diced red peppers\", \"green onions\", \"basil leaves\"],\n  \"cooking_style\": \"Not visually identifiable\",\n  \"food_presentation\": \"The dish is presented in a black bowl on a wooden table, surrounded by various ingredients and spices.\",\n  \"garnishes\": [\"green onions\", \"basil leaves\"],\n  \"portion_size\": \"The portion appears to be a single serving.\",\n  \"plate_or_bowl_type\": \"Black bowl\",\n  \"colors\": [\"red\", \"brown\", \"green\", \"white\"],\n  \"textures\": [\"meat\", \"beans\", \"diced vegetables\"],\n  \"visible_sauces_or_toppings\": [\"red sauce\"]\n}"
+    },
+    {
+        "id": 73,
+        "name": "Persian Jeweled Rice",
+        "cuisine": "Persian",
+        "servings": 4,
+        "prep_time": "30 mins",
+        "cook_time": "25 mins",
+        "total_time": "55 mins",
+        "ingredients": [
+            "Basmati rice",
+            "Saffron",
+            "Barberries",
+            "Almonds",
+            "Raisins",
+            "Butter"
+        ],
+        "directions": [
+            "Cook rice; mix with saffron and jeweled mix of nuts and dried fruits.",
+            "Fluff and serve."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"rice\", \"almonds\", \"dried fruits\", \"candied fruits\"],\n  \"cookingStyle\": \"Not visually identifiable\",\n  \"foodPresentation\": \"Decorative plating with toppings arranged on top\",\n  \"garnishes\": [\"almonds\", \"dried fruits\", \"candied fruits\"],\n  \"portionSize\": \"Large serving\",\n  \"plateType\": \"Ornate, gold-rimmed decorative plate\",\n  \"colors\": [\"white\", \"yellow\", \"brown\", \"red\", \"orange\", \"black\"],\n  \"textures\": [\"fluffy rice\", \"crunchy nuts\", \"soft dried fruits\", \"glazed candied fruits\"],\n  \"visibleSaucesOrToppings\": [\"None visible, but dried and candied fruits are used as toppings\"]\n}"
+    },
+    {
+        "id": 74,
+        "name": "Moroccan Lentil Soup (Harira)",
+        "cuisine": "Moroccan",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "30 mins",
+        "total_time": "45 mins",
+        "ingredients": [
+            "Lentils",
+            "Tomato paste",
+            "Chickpeas",
+            "Coriander",
+            "Cumin",
+            "Lemon juice"
+        ],
+        "directions": [
+            "Saut\u00e9 onions, garlic; add tomato paste and spices.",
+            "Add lentils and chickpeas with water; simmer until tender.",
+            "Finish with lemon juice and herbs."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"chickpeas\", \"tomatoes\", \"onions\", \"parsley\"],\n  \"cooking_style\": \"Not visually identifiable\",\n  \"food_presentation\": \"The dish is presented in a large black bowl.\",\n  \"garnishes\": [\"parsley\"],\n  \"portion_size\": \"Not visually identifiable\",\n  \"plate_or_bowl_type\": \"Large black bowl\",\n  \"colors\": [\"red\", \"orange\", \"green\", \"brown\"],\n  \"textures\": [\"smooth\", \"chunky\"],\n  \"visible_sauces_or_toppings\": [\"tomato-based sauce\"]\n}"
+    },
+    {
+        "id": 75,
+        "name": "Thai Red Curry with Chicken",
+        "cuisine": "Thai",
+        "servings": 3,
+        "prep_time": "15 mins",
+        "cook_time": "20 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "Red curry paste",
+            "Coconut milk",
+            "Chicken pieces",
+            "Bell peppers",
+            "Basil",
+            "Fish sauce"
+        ],
+        "directions": [
+            "Saut\u00e9 curry paste in oil; add chicken to sear.",
+            "Pour in coconut milk; add vegetables and simmer until cooked.",
+            "Finish with basil and fish sauce."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"chicken\", \"red and green peppers\", \"basil leaves\", \"cashews\", \"green peas\"],\n  \"cooking_style\": \"Not visually identifiable\",\n  \"food_presentation\": \"The dish is presented in a bowl with a variety of colorful ingredients.\",\n  \"garnishes\": [\"basil leaves\", \"green onions\"],\n  \"portion_size\": \"The portion appears to be for one person.\",\n  \"plate_or_bowl_type\": \"Ceramic bowl\",\n  \"colors\": [\"red\", \"green\", \"orange\", \"brown\"],\n  \"textures\": [\"soft\", \"crunchy\"],\n  \"visible_sauces_or_toppings\": [\"red curry sauce\"]\n}"
+    },
+    {
+        "id": 76,
+        "name": "Pasta Arrabbiata",
+        "cuisine": "Italian",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "Pasta",
+            "Tomato sauce",
+            "Garlic, chili flakes",
+            "Olive oil",
+            "Parsley"
+        ],
+        "directions": [
+            "Cook pasta until al dente.",
+            "Saut\u00e9 garlic and chili in olive oil; add tomato sauce.",
+            "Toss with pasta and garnish with parsley."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"pasta\", \"tomatoes\", \"chili peppers\", \"parsley\", \"garlic\"],\n  \"cookingStyle\": \"Not visually identifiable\",\n  \"foodPresentation\": \"The pasta is served in a bowl with a garnish of parsley on top.\",\n  \"garnishes\": [\"parsley\"],\n  \"portionSize\": \"A single serving\",\n  \"plateOrBowlType\": \"Ceramic bowl\",\n  \"colors\": [\"red\", \"green\", \"orange\", \"brown\"],\n  \"textures\": [\"smooth\", \"rough\"],\n  \"visibleSaucesOrToppings\": [\"tomato sauce\", \"chili peppers\"]\n}"
+    },
+    {
+        "id": 77,
+        "name": "Cranberry Walnut Salad",
+        "cuisine": "American",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "0 mins",
+        "total_time": "15 mins",
+        "ingredients": [
+            "Mixed greens",
+            "Cranberries",
+            "Walnuts",
+            "Feta or goat cheese",
+            "Balsamic vinaigrette"
+        ],
+        "directions": [
+            "Toss greens with cranberries, walnuts, and cheese.",
+            "Drizzle with vinaigrette."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"mixed greens\", \"cranberries\", \"walnuts\", \"cucumber\", \"feta cheese\"],\n  \"cookingStyle\": \"Not visually identifiable\",\n  \"foodPresentation\": \"The salad is arranged in a bowl with ingredients mixed together\",\n  \"garnishes\": \"None visible\",\n  \"portionSize\": \"A single serving in a bowl\",\n  \"plateOrBowlType\": \"Ceramic bowl with a brown rim\",\n  \"colors\": [\"green\", \"red\", \"white\", \"brown\"],\n  \"textures\": [\"crunchy\", \"soft\", \"leafy\"],\n  \"visibleSaucesOrToppings\": [\"dark brown sauce drizzled over the salad\", \"yellow dressing in a separate container\"]\n}"
+    },
+    {
+        "id": 78,
+        "name": "Corn Chowder",
+        "cuisine": "American",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "Corn kernels",
+            "Potatoes",
+            "Onion",
+            "Milk or cream",
+            "Butter",
+            "Salt and pepper"
+        ],
+        "directions": [
+            "Saut\u00e9 onion in butter; add potatoes and corn.",
+            "Add milk and simmer until thickened; season."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"corn\", \"potatoes\", \"onion\", \"green onions\"],\n  \"cooking_style\": \"Not visually identifiable\",\n  \"food_presentation\": \"The corn chowder is served in a bowl.\",\n  \"garnishes\": [\"green onions\"],\n  \"portion_size\": \"Not visually identifiable\",\n  \"plate_or_bowl_type\": \"Bowl\",\n  \"colors\": [\"yellow\", \"white\", \"green\", \"brown\"],\n  \"textures\": [\"creamy\", \"chunky\"],\n  \"visible_sauces_or_toppings\": [\"cream or milk\"]\n}"
+    },
+    {
+        "id": 79,
+        "name": "Eggplant Yakitori Skewers",
+        "cuisine": "Japanese",
+        "servings": 4,
+        "prep_time": "25 mins",
+        "cook_time": "12 mins",
+        "total_time": "37 mins",
+        "ingredients": [
+            "Eggplant sticks",
+            "Soy glaze: soy sauce, sugar, mirin",
+            "Sesame seeds"
+        ],
+        "directions": [
+            "Skewer eggplant chunks; brush with glaze.",
+            "Grill until tender; garnish with sesame seeds."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"eggplant\", \"sesame seeds\", \"sauce\"],\n  \"cooking_style\": \"grilled\",\n  \"food_presentation\": \"skewers\",\n  \"garnishes\": [\"sesame seeds\"],\n  \"portion_size\": \"multiple skewers\",\n  \"plate_or_bowl_type\": \"plate\",\n  \"colors\": [\"purple\", \"brown\", \"white\", \"beige\"],\n  \"textures\": [\"glossy\", \"soft\", \"crunchy\"],\n  \"visible_sauces_or_toppings\": [\"dark brown sauce\", \"sesame seeds\"]\n}"
+    },
+    {
+        "id": 80,
+        "name": "Chana Masala",
+        "cuisine": "Indian",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "Chickpeas",
+            "Onion",
+            "Tomatoes",
+            "Garlic",
+            "Garam masala",
+            "Cumin",
+            "Coriander"
+        ],
+        "directions": [
+            "Saut\u00e9 onion and garlic; add spices.",
+            "Add tomatoes and chickpeas; simmer 15-20 minutes."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"chickpeas\", \"tomatoes\", \"onions\", \"garlic\", \"spices\", \"herbs\"],\n  \"cooking_style\": \"Not visually identifiable\",\n  \"food_presentation\": \"The dish is presented in a bowl, garnished with sliced tomatoes and onions.\",\n  \"garnishes\": [\"sliced tomatoes\", \"sliced onions\", \"herbs\"],\n  \"portion_size\": \"The portion size is not identifiable as the image appears to be a styled representation.\",\n  \"plate_or_bowl_type\": \"The dish is served in a brown ceramic bowl.\",\n  \"colors\": [\"brown\", \"red\", \"orange\", \"yellow\", \"white\", \"green\"],\n  \"textures\": [\"smooth\", \"rough\", \"lumpy\"],\n  \"visible_sauces_or_toppings\": [\"tomato-based sauce\"]\n}"
+    },
+    {
+        "id": 81,
+        "name": "Buttermilk Pancakes",
+        "cuisine": "American",
+        "servings": 4,
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "Flour",
+            "Buttermilk",
+            "Egg",
+            "Baking powder",
+            "Sugar"
+        ],
+        "directions": [
+            "Mix dry ingredients; whisk in wet ingredients until smooth.",
+            "Cook on a hot skillet until bubbles form; flip and cook through."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"pancakes\", \"eggs\", \"syrup\"],\n  \"cooking_style\": \"pan-fried\",\n  \"food_presentation\": \"stacked\",\n  \"garnishes\": \"None\",\n  \"portion_size\": \"Multiple servings\",\n  \"plate_or_bowl_type\": \"Frying pan\",\n  \"colors\": [\"Golden brown\", \"White\", \"Brown\"],\n  \"textures\": [\"Soft\", \"Syrupy\"],\n  \"visible_sauces_or_toppings\": [\"Syrup\", \"Poached eggs\"]\n}"
+    },
+    {
+        "id": 82,
+        "name": "Mango Lassi",
+        "cuisine": "Indian",
+        "servings": 2,
+        "prep_time": "5 mins",
+        "cook_time": "0 mins",
+        "total_time": "5 mins",
+        "ingredients": [
+            "Mango pulp",
+            "Plain yogurt",
+            "Sugar",
+            "Cardamom (optional)"
+        ],
+        "directions": [
+            "Blend all ingredients until smooth.",
+            "Chill and serve."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"mango\", \"yogurt\", \"spices\", \"sugar\"],\n  \"cooking_style\": \"Not visually identifiable\",\n  \"food_presentation\": \"A glass of Mango Lassi on a wooden table with various ingredients around it\",\n  \"garnishes\": [\"spices on top of the drink\"],\n  \"portion_size\": \"One glass\",\n  \"plate_or_bowl_type\": \"Glass tumbler\",\n  \"colors\": [\"yellow\", \"white\", \"brown\", \"green\"],\n  \"textures\": [\"smooth\", \"powdery\", \"granular\"],\n  \"visible_sauces_or_toppings\": [\"layer of mango puree on top of the drink\"]\n}"
+    },
+    {
+        "id": 83,
+        "name": "Pesto Pasta with Sun-Dried Tomatoes",
+        "cuisine": "Italian",
+        "servings": 3,
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "Pasta",
+            "Pesto",
+            "Sun-dried tomatoes",
+            "Parmesan"
+        ],
+        "directions": [
+            "Cook pasta; drain.",
+            "Toss with pesto and sun-dried tomatoes; top with parmesan."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"pasta\", \"sun-dried tomatoes\", \"pesto sauce\", \"grated cheese\"],\n  \"cookingStyle\": \"Not visually identifiable\",\n  \"foodPresentation\": \"The pasta is presented on a white plate, topped with sun-dried tomatoes and grated cheese.\",\n  \"garnishes\": [\"basil leaves\"],\n  \"portionSize\": \"A generous serving\",\n  \"plateOrBowlType\": \"White plate\",\n  \"colors\": [\"green\", \"red\", \"yellow\", \"white\"],\n  \"textures\": [\"smooth\", \"rough\"],\n  \"visibleSaucesOrToppings\": [\"pesto sauce\", \"grated cheese\"]\n}"
+    },
+    {
+        "id": 84,
+        "name": "Salisbury Steak with Mushroom Gravy",
+        "cuisine": "American",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "Ground beef",
+            "Mushrooms",
+            "Onion",
+            "Beef broth",
+            "Flour",
+            "Butter"
+        ],
+        "directions": [
+            "Form patties and brown in a pan; set aside.",
+            "Make gravy with mushrooms, onion, flour, and broth; return patties to pan and simmer."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"meat patty\", \"mushrooms\", \"onions\", \"rice\", \"butter\", \"herbs\"],\n  \"cookingStyle\": \"Not visually identifiable\",\n  \"foodPresentation\": \"The dish is presented in a bowl with a brown rim.\",\n  \"garnishes\": [\"herbs\", \"chopped green onions\"],\n  \"portionSize\": \"The portion appears to be a single serving.\",\n  \"plateOrBowlType\": \"The dish is served in a bowl.\",\n  \"colors\": [\"brown\", \"beige\", \"white\", \"green\", \"yellow\"],\n  \"textures\": [\"smooth gravy\", \"grilled meat patty\", \"sliced mushrooms\", \"mashed rice\", \"soft onions\", \"cubed butter\"],\n  \"visibleSaucesOrToppings\": [\"mushroom gravy\"]\n}"
+    },
+    {
+        "id": 85,
+        "name": "Simple Garlic Herb Salmon",
+        "cuisine": "American",
+        "servings": 2,
+        "prep_time": "5 mins",
+        "cook_time": "10 mins",
+        "total_time": "15 mins",
+        "ingredients": [
+            "Salmon fillets",
+            "Garlic, minced",
+            "Herbs (dill or parsley)",
+            "Lemon juice",
+            "Olive oil"
+        ],
+        "directions": [
+            "Season salmon; sear in a pan with garlic and herbs.",
+            "Finish with lemon juice and serve."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"salmon fillets\", \"garlic cloves\", \"dill\", \"lemon slice\", \"peppercorns\", \"oil\"],\n  \"cooking_style\": \"pan-cooked\",\n  \"food_presentation\": \"salmon fillets are placed in a pan with garlic and herbs around them\",\n  \"garnishes\": [\"dill\", \"lemon slice\"],\n  \"portion_size\": \"two large salmon fillets\",\n  \"plate_or_bowl_type\": \"pan\",\n  \"colors\": [\"orange-pink\", \"green\", \"yellow\", \"white\", \"brown\"],\n  \"textures\": [\"smooth\", \"rough\"],\n  \"visible_sauces_or_toppings\": [\"oil with garlic and herbs\"]\n}"
+    },
+    {
+        "id": 86,
+        "name": "Gnocchi with Sage Butter",
+        "cuisine": "Italian",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "10 mins",
+        "total_time": "20 mins",
+        "ingredients": [
+            "Store-bought gnocchi",
+            "Butter",
+            "Fresh sage leaves",
+            "Parmesan"
+        ],
+        "directions": [
+            "Cook gnocchi until floating.",
+            "Brown butter with sage; toss with gnocchi and parmesan."
+        ],
+        "image_description": "{\"visibleIngredients\": [\"gnocchi\", \"sage leaves\", \"parmesan cheese\"], \"cookingStyle\": \"pan-seared\", \"foodPresentation\": \"gnocchi are served in a bowl, topped with sage leaves and parmesan cheese\", \"garnishes\": [\"sage leaves\"], \"portionSize\": \"a generous serving\", \"plateOrBowlType\": \"ceramic bowl with brown rim\", \"colors\": [\"light yellow\", \"green\", \"white\", \"brown\"], \"textures\": [\"soft gnocchi\", \"crispy sage leaves\", \"shredded parmesan\"], \"visibleSaucesOrToppings\": [\"melted butter\", \"parmesan cheese\"]}"
+    },
+    {
+        "id": 87,
+        "name": "Shredded Beef Tostadas",
+        "cuisine": "Mexican",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "2 hours",
+        "total_time": "2 hours 20 mins",
+        "ingredients": [
+            "Beef chuck, slow-cooked and shredded",
+            "Tostada shells",
+            "Lettuce, tomato, cheese",
+            "Sour cream",
+            "Salsa"
+        ],
+        "directions": [
+            "Slow-cook beef with spices until tender; shred.",
+            "Top tostadas with beef and toppings."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"shredded beef\", \"tortillas\", \"lettuce\", \"diced tomatoes\", \"sour cream\", \"lime wedges\", \"shredded cheese\"],\n  \"cooking_style\": \"Not visually identifiable\",\n  \"food_presentation\": \"Four tostadas arranged on a black plate\",\n  \"garnishes\": [\"lime wedges\", \"cilantro\"],\n  \"portion_size\": \"Four tostadas\",\n  \"plate_or_bowl_type\": \"Black plate\",\n  \"colors\": [\"brown\", \"green\", \"red\", \"white\", \"yellow\", \"black\"],\n  \"textures\": [\"shredded\", \"crunchy\", \"smooth\"],\n  \"visible_sauces_or_toppings\": [\"sour cream\", \"diced tomatoes\", \"shredded cheese\"]\n}"
+    },
+    {
+        "id": 88,
+        "name": "Chili Lime Grilled Corn",
+        "cuisine": "Mexican",
+        "servings": 4,
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "Corn on the cob",
+            "Butter",
+            "Chili powder",
+            "Lime juice",
+            "Salt"
+        ],
+        "directions": [
+            "Grill corn until charred; brush with butter.",
+            "Sprinkle chili powder and drizzle lime juice; season."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"corn on the cob\", \"lime slices\", \"chili peppers\", \"garlic\", \"red spice powder\"],\n  \"cooking_style\": \"grilled\",\n  \"food_presentation\": \"four ears of corn arranged on a slate plate\",\n  \"garnishes\": [\"lime slices\", \"chili peppers\"],\n  \"portion_size\": \"four ears of corn\",\n  \"plate_or_bowl_type\": \"slate plate\",\n  \"colors\": [\"yellow\", \"green\", \"red\", \"orange\", \"black\"],\n  \"textures\": [\"grilled texture on corn\", \"smooth lime slices\", \"rough chili peppers\"],\n  \"visible_sauces_or_toppings\": [\"red spice powder\", \"possibly butter or oil on corn\"]\n}"
+    },
+    {
+        "id": 89,
+        "name": "Herbed Rice with Peas",
+        "cuisine": "Indian/Global",
+        "servings": 4,
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "Basmati rice",
+            "Frozen peas",
+            "Spinach or cilantro",
+            "Butter or ghee"
+        ],
+        "directions": [
+            "Cook rice with peas; stir in greens and butter."
+        ],
+        "image_description": "{\n    \"visibleIngredients\": [\"rice\", \"peas\", \"herbs\"],\n    \"cookingStyle\": \"Not visually identifiable\",\n    \"foodPresentation\": \"The rice and peas are served in a bowl, with peas piled on one side.\",\n    \"garnishes\": [\"herbs\"],\n    \"portionSize\": \"A generous serving in a large bowl\",\n    \"plateOrBowlType\": \"Ceramic bowl with brown rim\",\n    \"colors\": [\"white\", \"green\", \"brown\"],\n    \"textures\": [\"grains of rice\", \"smooth peas\", \"herbs\"],\n    \"visibleSaucesOrToppings\": [\"Not visible\"]\n}"
+    },
+    {
+        "id": 90,
+        "name": "Gulai Ayam (Indonesian Curry Chicken)",
+        "cuisine": "Indonesian",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "Chicken pieces",
+            "Gulai curry paste",
+            "Coconut milk",
+            "Vegetables (potatoes, carrots)"
+        ],
+        "directions": [
+            "Saut\u00e9 curry paste; add chicken and coconut milk.",
+            "Simmer with vegetables until cooked."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"chicken\", \"carrots\", \"potatoes\", \"green beans\", \"peas\", \"onions\"],\n  \"cookingStyle\": \"braising or stewing\",\n  \"foodPresentation\": \"served in a bowl with handles\",\n  \"garnishes\": [\"green herbs\"],\n  \"portionSize\": \"generous\",\n  \"plateOrBowlType\": \"deep bowl with handles\",\n  \"colors\": [\"orange\", \"green\", \"yellow\", \"brown\"],\n  \"textures\": [\"soft\", \"saucy\"],\n  \"visibleSaucesOrToppings\": [\"yellow-orange curry sauce\"]\n}"
+    },
+    {
+        "id": 91,
+        "name": "Spicy Peanut Noodles",
+        "cuisine": "Thai/Chinese Fusion",
+        "servings": 2,
+        "prep_time": "15 mins",
+        "cook_time": "10 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "Rice noodles",
+            "Peanut butter",
+            "Soy sauce",
+            "Rice vinegar",
+            "Chili sauce",
+            "Garlic"
+        ],
+        "directions": [
+            "Cook noodles; whisk sauce with peanut butter.",
+            "Toss noodles with sauce and sesame seeds."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"noodles\", \"peanuts\", \"green onions\", \"red chili peppers\", \"sesame seeds\", \"seaweed\"],\n  \"cookingStyle\": \"Not visually identifiable\",\n  \"foodPresentation\": \"The noodles are served in a bowl with toppings arranged on top.\",\n  \"garnishes\": [\"green onions\", \"red chili peppers\", \"sesame seeds\", \"seaweed\"],\n  \"portionSize\": \"A single serving in a bowl.\",\n  \"plateOrBowlType\": \"Ceramic bowl with a blue interior and brown exterior.\",\n  \"colors\": [\"brown\", \"green\", \"red\", \"white\", \"black\"],\n  \"textures\": [\"smooth noodles\", \"crunchy peanuts\", \"soft seaweed\", \"crunchy sesame seeds\"],\n  \"visibleSaucesOrToppings\": [\"peanut sauce or dressing\", \"sesame seeds\", \"seaweed\"]\n}"
+    },
+    {
+        "id": 92,
+        "name": "Herbed Quiche",
+        "cuisine": "French",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "40 mins",
+        "total_time": "55 mins",
+        "ingredients": [
+            "Pie crust",
+            "Eggs",
+            "Cream",
+            "Cheese",
+            "Herbs",
+            "Vegetables (optional)"
+        ],
+        "directions": [
+            "Whisk eggs with cream and herbs.",
+            "Fill crust with cheese and vegetables; pour mixture and bake until set."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"eggs\", \"cheese\", \"herbs\", \"mushrooms\", \"spinach\"],\n  \"cookingStyle\": \"baked\",\n  \"foodPresentation\": \"sliced into 8 portions\",\n  \"garnishes\": [\"herbs\"],\n  \"portionSize\": \"8 slices\",\n  \"plateOrBowlType\": \"fluted tart pan\",\n  \"colors\": [\"yellow\", \"green\", \"brown\", \"white\"],\n  \"textures\": [\"crusty crust\", \"soft eggs\", \"fluffy filling\"],\n  \"visibleSaucesOrToppings\": [\"Not visually identifiable\"]\n}"
+    },
+    {
+        "id": 93,
+        "name": "Baked Ziti",
+        "cuisine": "Italian",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "Pasta",
+            "Tomato sauce",
+            "Ground beef or sausage",
+            "Mozzarella cheese",
+            "Parmesan"
+        ],
+        "directions": [
+            "Cook pasta; mix with sauce and meat.",
+            "Top with cheese and bake until bubbly."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"rigatoni pasta\", \"red sauce\", \"white cheese\", \"ground meat\"],\n  \"cookingStyle\": \"baked\",\n  \"foodPresentation\": \"baked pasta in a round white dish\",\n  \"garnishes\": [\"parsley on the side\"],\n  \"portionSize\": \"large serving\",\n  \"plateOrBowlType\": \"white round baking dish\",\n  \"colors\": [\"red\", \"white\", \"beige\"],\n  \"textures\": [\"smooth sauce\", \"ridged pasta\", \"melted cheese\"],\n  \"visibleSaucesOrToppings\": [\"red tomato sauce\", \"white cheese sauce\"]\n}"
+    },
+    {
+        "id": 94,
+        "name": "Herbed Shrimp and Grits",
+        "cuisine": "American",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "Shrimp",
+            "Grits",
+            "Butter",
+            "Garlic",
+            "Lemon",
+            "Parsley"
+        ],
+        "directions": [
+            "Prepare grits as per package instructions with butter.",
+            "Saut\u00e9 shrimp with garlic; stir in lemon and parsley.",
+            "Serve shrimp over grits."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"shrimp\", \"grits\", \"garlic\", \"parsley\", \"sauce\"],\n  \"cookingStyle\": \"Not visually identifiable\",\n  \"foodPresentation\": \"Shrimp on top of grits in a bowl\",\n  \"garnishes\": [\"parsley\"],\n  \"portionSize\": \"Single serving\",\n  \"plateOrBowlType\": \"White ceramic bowl\",\n  \"colors\": [\"white\", \"orange\", \"green\", \"brown\"],\n  \"textures\": [\"smooth\", \"chunky\"],\n  \"visibleSaucesOrToppings\": [\"Light brown sauce with garlic and herbs\"]\n}"
+    },
+    {
+        "id": 95,
+        "name": "Duck Confit (Simple Version)",
+        "cuisine": "French",
+        "servings": 2,
+        "prep_time": "20 mins",
+        "cook_time": "1 hour",
+        "total_time": "1 hour 20 mins",
+        "ingredients": [
+            "Duck legs confit (or duck legs and fat)",
+            "Garlic, thyme",
+            "Salt and pepper"
+        ],
+        "directions": [
+            "Crisp duck skin in a hot skillet; finish in oven until skin is golden and meat is tender."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"duck legs\", \"garlic cloves\", \"thyme\", \"peppercorns\", \"oil or fat\"],\n  \"cooking_style\": \"confit\",\n  \"food_presentation\": \"Two duck legs presented in a pan, crossed over each other\",\n  \"garnishes\": [\"thyme sprigs\"],\n  \"portion_size\": \"Two duck legs\",\n  \"plate_or_bowl_type\": \"Metal pan with handles\",\n  \"colors\": [\"golden brown\", \"white\", \"green\", \"black\"],\n  \"textures\": [\"shiny\", \"glossy\"],\n  \"visible_sauces_or_toppings\": [\"oil or fat covering the duck and garlic\"]\n}"
+    },
+    {
+        "id": 96,
+        "name": "Lemon Olive Oil Cake",
+        "cuisine": "Mediterranean",
+        "servings": 8,
+        "prep_time": "15 mins",
+        "cook_time": "40 mins",
+        "total_time": "55 mins",
+        "ingredients": [
+            "Flour",
+            "Sugar",
+            "Lemon zest",
+            "Olive oil",
+            "Eggs",
+            "Baking powder",
+            "Milk"
+        ],
+        "directions": [
+            "Mix ingredients; bake in loaf pan until a toothpick comes out clean."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"lemon\", \"olive oil\", \"eggs\", \"sugar\", \"flour\", \"baking powder\"],\n  \"cooking_style\": \"baked\",\n  \"food_presentation\": \"loaf cake with slices cut\",\n  \"garnishes\": [\"fresh herbs\", \"lemon zest\"],\n  \"portion_size\": \"loaf cake with multiple slices\",\n  \"plate_or_bowl_type\": \"loaf pan\",\n  \"colors\": [\"yellow\", \"brown\", \"green\", \"white\"],\n  \"textures\": [\"smooth\", \"crumbly\"],\n  \"visible_sauces_or_toppings\": [\"olive oil\"]\n}"
+    },
+    {
+        "id": 97,
+        "name": "Salsa Verde Chicken Tajine",
+        "cuisine": "Moroccan",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "45 mins",
+        "total_time": "1 hour",
+        "ingredients": [
+            "Chicken pieces",
+            "Salsa verde",
+            "Chickpeas",
+            "Potatoes",
+            "Olives"
+        ],
+        "directions": [
+            "Combine ingredients in a tajine or pot; simmer until chicken is cooked and flavors meld."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"chicken\", \"potatoes\", \"chickpeas\", \"olives\", \"carrots\", \"onions\", \"red peppers\", \"parsley\"],\n  \"cookingStyle\": \"braised or stewed\",\n  \"foodPresentation\": \"hearty stew\",\n  \"garnishes\": [\"parsley\"],\n  \"portionSize\": \"generous, serves multiple people\",\n  \"plateOrBowlType\": \"clay tajine or similar ceramic dish with handles\",\n  \"colors\": [\"brown\", \"green\", \"yellow\", \"orange\", \"black\"],\n  \"textures\": [\"soft\", \"tender\", \"chunky\"],\n  \"visibleSaucesOrToppings\": [\"green sauce or broth\"]\n}"
+    },
+    {
+        "id": 98,
+        "name": "Coconut Lime Chicken",
+        "cuisine": "Thai/Caribbean Fusion",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "20 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "Chicken thighs",
+            "Coconut milk",
+            "Lime juice",
+            "Garlic",
+            "Thai curry paste"
+        ],
+        "directions": [
+            "Saut\u00e9 garlic and curry paste; add chicken and coconut milk.",
+            "Simmer until chicken is cooked; finish with lime juice."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"chicken\", \"lime\", \"garlic\", \"red chili peppers\", \"onions\", \"parsley\", \"black peppercorns\"],\n  \"cookingStyle\": \"Not visually identifiable\",\n  \"foodPresentation\": \"The dish is served in a gray bowl with a yellow sauce and garnished with various ingredients.\",\n  \"garnishes\": [\"lime slices\", \"red chili peppers\", \"parsley\", \"garlic cloves\"],\n  \"portionSize\": \"The bowl contains multiple pieces of chicken and appears to be a generous serving.\",\n  \"plateOrBowlType\": \"Gray ceramic bowl\",\n  \"colors\": [\"yellow\", \"green\", \"red\", \"white\", \"gray\", \"brown\"],\n  \"textures\": [\"smooth sauce\", \"rough bowl texture\"],\n  \"visibleSaucesOrToppings\": [\"yellow sauce\"]\n}"
+    },
+    {
+        "id": 99,
+        "name": "Spinach and Feta Stuffed Peppers",
+        "cuisine": "Mediterranean",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "Bell peppers",
+            "Spinach",
+            "Feta cheese",
+            "Rice or quinoa",
+            "Tomato sauce"
+        ],
+        "directions": [
+            "Cook filling with spinach and feta; stuff peppers.",
+            "Bake in sauce until peppers tender."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"bell peppers\", \"feta cheese\", \"spinach\", \"rice or grains\", \"tomato sauce\", \"basil leaves\"],\n  \"cooking_style\": \"baked\",\n  \"food_presentation\": \"stuffed bell peppers arranged in a circular pattern\",\n  \"garnishes\": [\"basil leaves\"],\n  \"portion_size\": \"5 stuffed bell peppers\",\n  \"plate_or_bowl_type\": \"cast iron skillet\",\n  \"colors\": [\"green\", \"yellow\", \"red\", \"white\", \"dark gray\"],\n  \"textures\": [\"smooth peppers\", \"crumbly feta\", \"leafy greens\", \"saucy base\"],\n  \"visible_sauces_or_toppings\": [\"tomato sauce at the base\", \"melted or browned feta cheese on top\"]\n}"
+    },
+    {
+        "id": 100,
+        "name": "Gado-Gado (Indonesian Peanut Salad)",
+        "cuisine": "Indonesian",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "10 mins",
+        "total_time": "30 mins",
+        "ingredients": [
+            "Boiled vegetables (beans, cabbage, potato)",
+            "Hard-boiled eggs",
+            "Tofu or tempeh",
+            "Peanut sauce: peanuts, palm sugar, tamarind, lime"
+        ],
+        "directions": [
+            "Arrange vegetables, eggs, and tofu on a plate.",
+            "Drizzle with warm peanut sauce and serve."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\n    \"carrots\",\n    \"bean sprouts\",\n    \"green beans\",\n    \"cabbage\",\n    \"red bell pepper\",\n    \"chickpeas\",\n    \"tofu\",\n    \"hard-boiled egg\",\n    \"peanuts\",\n    \"potatoes\"\n  ],\n  \"cooking_style\": \"Some ingredients appear to be boiled or steamed.\",\n  \"food_presentation\": \"The ingredients are arranged in a circular pattern on a plate.\",\n  \"garnishes\": \"Mint leaves are visible around the plate.\",\n  \"portion_size\": \"The dish appears to be a single serving.\",\n  \"plate_or_bowl_type\": \"The food is served on a ceramic plate with a brown rim and blue-green interior.\",\n  \"colors\": [\n    \"orange\",\n    \"green\",\n    \"white\",\n    \"red\",\n    \"yellow\",\n    \"brown\"\n  ],\n  \"textures\": [\n    \"crunchy\",\n    \"soft\",\n    \"smooth\"\n  ],\n  \"visible_sauces_or_toppings\": \"A peanut sauce is visible in the center of the dish.\"\n}"
+    },
+    {
+        "id": 101,
+        "name": "Kung Pao Chicken",
+        "cuisine": "Chinese (Szechuan)",
+        "servings": 3,
+        "prep_time": "20 mins",
+        "cook_time": "10 mins",
+        "total_time": "30 mins",
+        "ingredients": [
+            "500g chicken breast, cubed",
+            "1/2 cup roasted peanuts",
+            "3-4 dried red chilies",
+            "2 cloves garlic, minced",
+            "1 tablespoon ginger, minced",
+            "2 tablespoons soy sauce",
+            "1 tablespoon rice vinegar",
+            "1 teaspoon sugar",
+            "1 tablespoon cornstarch mixed with 1 tablespoon water",
+            "2 tablespoons vegetable oil"
+        ],
+        "directions": [
+            "In a small bowl, mix soy sauce, vinegar, and sugar to make the sauce.",
+            "Heat oil in a wok and stir-fry the chicken until cooked through; remove and set aside.",
+            "In the same wok, saut\u00e9 garlic, ginger, and dried chilies until fragrant.",
+            "Return chicken to the wok, add the peanuts and the sauce mixture.",
+            "Stir in the cornstarch slurry and cook until the sauce thickens and coats the chicken.",
+            "Serve hot with steamed rice."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"chicken\", \"red chilies\", \"peanuts\", \"onions\"],\n  \"cooking_style\": \"stir-fry\",\n  \"food_presentation\": \"in a wok\",\n  \"garnishes\": [\"red chilies\", \"peanuts\"],\n  \"portion_size\": \"large\",\n  \"plate_or_bowl_type\": \"wok\",\n  \"colors\": [\"brown\", \"red\", \"white\"],\n  \"textures\": [\"crunchy\", \"saucy\"],\n  \"visible_sauces_or_toppings\": [\"dark sauce\"]\n}"
+    },
+    {
+        "id": 102,
+        "name": "Mapo Tofu",
+        "cuisine": "Chinese (Szechuan)",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "total_time": "30 mins",
+        "ingredients": [
+            "400g soft tofu, cubed",
+            "100g ground pork or beef",
+            "2 tablespoons Doubanjiang (spicy bean paste)",
+            "1 tablespoon soy sauce",
+            "1 teaspoon Szechuan peppercorns, crushed",
+            "2 green onions, chopped",
+            "1 cup chicken broth",
+            "1 tablespoon cornstarch slurry"
+        ],
+        "directions": [
+            "Brown the ground meat in a wok over medium-high heat.",
+            "Add the spicy bean paste and peppercorns, stirring until fragrant and the oil turns red.",
+            "Pour in the chicken broth and soy sauce; bring to a simmer.",
+            "Gently add the tofu cubes and simmer for 5 minutes.",
+            "Stir in the cornstarch slurry to thicken the sauce.",
+            "Garnish with green onions and serve."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"tofu\", \"ground meat\", \"green onions\", \"red chili peppers\", \"Sichuan peppercorns\"],\n  \"cookingStyle\": \"stir-fried\",\n  \"foodPresentation\": \"served in a wok\",\n  \"garnishes\": [\"green onions\"],\n  \"portionSize\": \"large\",\n  \"plateOrBowlType\": \"wok\",\n  \"colors\": [\"brown\", \"white\", \"green\", \"red\"],\n  \"textures\": [\"soft\", \"crumbly\"],\n  \"visibleSaucesOrToppings\": [\"red sauce\", \"Sichuan peppercorns\"]\n}"
+    },
+    {
+        "id": 103,
+        "name": "Beef and Broccoli",
+        "cuisine": "Chinese (Cantonese)",
+        "servings": 2,
+        "prep_time": "15 mins",
+        "cook_time": "10 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "300g flank steak, thinly sliced against the grain",
+            "2 cups broccoli florets",
+            "2 tablespoons oyster sauce",
+            "1 tablespoon soy sauce",
+            "1 tablespoon ginger, minced",
+            "1 tablespoon cornstarch",
+            "2 tablespoons vegetable oil"
+        ],
+        "directions": [
+            "Toss beef slices with cornstarch and a splash of soy sauce; let sit for 10 minutes.",
+            "Blanch broccoli in boiling water for 2 minutes, then drain.",
+            "Heat oil in a wok and sear beef at high heat until browned; remove.",
+            "Stir-fry ginger for 30 seconds, then add broccoli, oyster sauce, and soy sauce.",
+            "Return beef to the wok and toss everything together for 1 minute.",
+            "Serve immediately."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"beef\", \"broccoli\", \"mushrooms\", \"cashews\", \"green peas\"],\n  \"cooking_style\": \"stir-fry\",\n  \"food_presentation\": \"The dish is presented in a large, shallow black pan.\",\n  \"garnishes\": [\"cashews\"],\n  \"portion_size\": \"Large, family-style serving\",\n  \"plate_or_bowl_type\": \"Large, shallow black pan on a wooden tray\",\n  \"colors\": [\"green\", \"red\", \"brown\", \"white\"],\n  \"textures\": [\"tender beef\", \"crunchy broccoli\", \"crunchy cashews\"],\n  \"visible_sauces_or_toppings\": [\"dark sauce visible under the ingredients\"]\n}"
+    },
+    {
+        "id": 104,
+        "name": "General Tso's Chicken",
+        "cuisine": "Chinese-American",
+        "servings": 3,
+        "prep_time": "25 mins",
+        "cook_time": "15 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "500g chicken thighs, cut into bite-sized pieces",
+            "1/2 cup cornstarch (for coating)",
+            "1/4 cup soy sauce",
+            "2 tablespoons rice vinegar",
+            "2 tablespoons sugar",
+            "1 tablespoon ginger-garlic paste",
+            "Oil for deep frying",
+            "Dried red chilies to taste"
+        ],
+        "directions": [
+            "Coat chicken pieces thoroughly in cornstarch.",
+            "Deep fry chicken in hot oil until crispy and golden; drain on paper towels.",
+            "In a separate pan, saut\u00e9 ginger, garlic, and chilies.",
+            "Add soy sauce, vinegar, and sugar; simmer until the sugar dissolves.",
+            "Toss the crispy chicken into the sauce until fully coated.",
+            "Serve over white rice."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"chicken\", \"rice\", \"red chili peppers\", \"ginger\", \"sesame seeds\"],\n  \"cookingStyle\": \"deep-fried\",\n  \"foodPresentation\": \"served in a bowl with rice on the side\",\n  \"garnishes\": [\"red chili peppers\", \"sesame seeds\"],\n  \"portionSize\": \"large\",\n  \"plateOrBowlType\": \"ceramic bowl\",\n  \"colors\": [\"white\", \"brown\", \"red\", \"yellow\"],\n  \"textures\": [\"crispy\", \"soft\"],\n  \"visibleSaucesOrToppings\": [\"brown sauce\"]\n}"
+    },
+    {
+        "id": 105,
+        "name": "Pork Potstickers (Dumplings)",
+        "cuisine": "Chinese",
+        "servings": 4,
+        "prep_time": "40 mins",
+        "cook_time": "15 mins",
+        "total_time": "55 mins",
+        "ingredients": [
+            "20-25 dumpling wrappers",
+            "300g ground pork",
+            "1 cup cabbage, finely shredded",
+            "1 tablespoon soy sauce",
+            "1 teaspoon sesame oil",
+            "1 teaspoon ginger, grated",
+            "2 tablespoons vegetable oil",
+            "1/4 cup water"
+        ],
+        "directions": [
+            "Mix pork, cabbage, soy sauce, sesame oil, and ginger in a bowl.",
+            "Place a teaspoon of filling in the center of a wrapper, moisten edges, and fold/pleat to seal.",
+            "Heat oil in a flat skillet and arrange dumplings in a single layer.",
+            "Fry for 2 minutes until bottoms are golden.",
+            "Pour in water and immediately cover with a lid to steam for 5-7 minutes.",
+            "Remove lid and cook until water evaporates and bottoms are crispy again."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"dumplings\", \"sesame seeds\", \"scallions\", \"sauce\"],\n  \"cookingStyle\": \"pan-fried\",\n  \"foodPresentation\": \"arranged in a pan\",\n  \"garnishes\": [\"sesame seeds\", \"scallions\"],\n  \"portionSize\": \"9-10 dumplings\",\n  \"plateOrBowlType\": \"cast iron pan\",\n  \"colors\": [\"white\", \"brown\", \"green\", \"dark brown\"],\n  \"textures\": [\"crispy\", \"soft\"],\n  \"visibleSaucesOrToppings\": [\"dark brown sauce\", \"sesame seeds\"]\n}"
+    },
+    {
+        "id": 106,
+        "name": "Hot and Sour Soup",
+        "cuisine": "Chinese",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "total_time": "30 mins",
+        "ingredients": [
+            "4 cups chicken or vegetable broth",
+            "1/2 cup tofu, cut into matchsticks",
+            "1/4 cup bamboo shoots, sliced",
+            "2 tablespoons soy sauce",
+            "1/4 cup rice vinegar",
+            "1 teaspoon white pepper",
+            "1 egg, beaten",
+            "2 tablespoons cornstarch slurry"
+        ],
+        "directions": [
+            "Bring broth to a boil in a large pot.",
+            "Add tofu, bamboo shoots, soy sauce, and white pepper.",
+            "Stir in the cornstarch slurry and simmer until thickened.",
+            "Slowly drizzle in the beaten egg while stirring gently to create ribbons.",
+            "Stir in the rice vinegar at the very end to preserve the 'sour' punch.",
+            "Garnish with green onions."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"Tofu\", \"Bamboo shoots\", \"Egg\", \"Noodles\", \"Green onions\"],\n  \"cooking_style\": \"Not visually identifiable\",\n  \"food_presentation\": \"The dish is presented in a large black pot with two handles.\",\n  \"garnishes\": [\"Green onions\"],\n  \"portion_size\": \"Large, family-style serving\",\n  \"plate_or_bowl_type\": \"Large black pot\",\n  \"colors\": [\"Orange\", \"White\", \"Green\", \"Brown\"],\n  \"textures\": [\"Soft\", \"Smooth\", \"Fibrous\"],\n  \"visible_sauces_or_toppings\": [\"Broth\", \"Soy sauce or similar dark sauce in a separate bowl\"]\n}"
+    },
+    {
+        "id": 107,
+        "name": "Chow Mein",
+        "cuisine": "Chinese",
+        "servings": 2,
+        "prep_time": "15 mins",
+        "cook_time": "10 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "200g chow mein noodles",
+            "1 cup cabbage, sliced",
+            "1 carrot, julienned",
+            "2 tablespoons soy sauce",
+            "1 tablespoon oyster sauce",
+            "1 teaspoon sugar",
+            "2 tablespoons vegetable oil"
+        ],
+        "directions": [
+            "Boil noodles according to package instructions, drain, and set aside.",
+            "Heat oil in a wok and stir-fry cabbage and carrots for 3 minutes.",
+            "Add the noodles to the wok.",
+            "Mix soy sauce, oyster sauce, and sugar, then pour over the noodles.",
+            "Toss at high heat for 2-3 minutes until noodles are slightly charred and well coated.",
+            "Serve hot."
+        ],
+        "image_description": "{\n  \"visible_ingredients\": [\"noodles\", \"carrots\", \"broccoli\", \"cabbage\", \"green onions\", \"peas\", \"bell peppers\"],\n  \"cooking_style\": \"stir-fried\",\n  \"food_presentation\": \"mixed\",\n  \"garnishes\": \"Not visually identifiable\",\n  \"portion_size\": \"large\",\n  \"plate_or_bowl_type\": \"oval ceramic plate\",\n  \"colors\": [\"brown\", \"orange\", \"green\", \"yellow\", \"red\"],\n  \"textures\": [\"soft\", \"crunchy\"],\n  \"visible_sauces_or_toppings\": [\"dark sauce on noodles\"]\n}"
+    },
+    {
+        "id": 108,
+        "name": "Wonton Soup",
+        "cuisine": "Chinese (Cantonese)",
+        "servings": 3,
+        "prep_time": "30 mins",
+        "cook_time": "10 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "12-15 frozen or fresh wontons",
+            "4 cups chicken broth",
+            "1 tablespoon soy sauce",
+            "1/2 teaspoon sesame oil",
+            "1/2 cup bok choy leaves",
+            "Green onions for garnish"
+        ],
+        "directions": [
+            "Bring chicken broth and soy sauce to a boil in a pot.",
+            "Add the wontons and simmer for 5 minutes (or until they float).",
+            "Add bok choy and cook for 1 minute until wilted.",
+            "Turn off heat and stir in sesame oil.",
+            "Ladle into bowls and garnish with green onions."
+        ],
+        "image_description": "{\n    \"visible_ingredients\": [\"wontons\", \"green onions\", \"bok choy\"],\n    \"cooking_style\": \"boiled\",\n    \"food_presentation\": \"three bowls of wonton soup on a wooden tray\",\n    \"garnishes\": [\"green onions\"],\n    \"portion_size\": \"three servings\",\n    \"plate_or_bowl_type\": \"ceramic bowls\",\n    \"colors\": [\"white\", \"green\", \"brown\"],\n    \"textures\": [\"smooth broth\", \"soft wontons\", \"crunchy green onions\"],\n    \"visible_sauces_or_toppings\": [\"soy sauce\", \"sesame oil\"]\n}"
+    },
+    {
+        "id": 109,
+        "name": "Honey Walnut Shrimp",
+        "cuisine": "Chinese (Hong Kong Style)",
+        "servings": 3,
+        "prep_time": "20 mins",
+        "cook_time": "15 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "500g large shrimp, peeled and deveined",
+            "1/2 cup cornstarch",
+            "2 eggs, beaten",
+            "1/4 cup mayonnaise",
+            "1 tablespoon honey",
+            "1 tablespoon condensed milk",
+            "1/2 cup candied walnuts",
+            "Oil for frying"
+        ],
+        "directions": [
+            "Dip shrimp in egg, then coat with cornstarch.",
+            "Fry shrimp in hot oil until golden and crispy; drain.",
+            "In a large bowl, whisk together mayonnaise, honey, and condensed milk.",
+            "Toss the warm shrimp and candied walnuts into the sauce until evenly coated.",
+            "Serve immediately, usually garnished with steamed broccoli."
+        ],
+        "image_description": "{\n  \"visibleIngredients\": [\"shrimp\", \"broccoli\", \"walnuts\", \"quail eggs\"],\n  \"cookingStyle\": \"Not visually identifiable\",\n  \"foodPresentation\": \"The dish is presented in a bowl with shrimp on top and other ingredients mixed below.\",\n  \"garnishes\": \"None visible\",\n  \"portionSize\": \"A generous serving in a large bowl\",\n  \"plateOrBowlType\": \"Ceramic bowl with brown rim\",\n  \"colors\": [\"orange\", \"green\", \"brown\", \"white\", \"cream\"],\n  \"textures\": [\"glossy sauce on shrimp\", \"crunchy walnuts\", \"florets of broccoli\", \"smooth quail eggs\"],\n  \"visibleSaucesOrToppings\": [\"cream sauce drizzled over shrimp\", \"brown sauce at the bottom of the bowl\"]\n}"
+    }
+]
