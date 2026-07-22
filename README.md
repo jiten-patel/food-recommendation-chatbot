@@ -52,15 +52,13 @@ pip install -r requirements.txt
 
 ### 2. Configure credentials
 
-```bash
-cp .env.example .env
-# Edit .env — minimum required: OPENAI_API_KEY
-```
+# Edit config.py — minimum required: OPENAI_API_KEY
+
 
 ### 3. Start the server
 
 ```bash
-python -m backend.main
+python app.py
 ```
 
 | Endpoint | URL |
@@ -69,7 +67,7 @@ python -m backend.main
 | REST API docs | `http://localhost:3000/api/docs` |
 | Health check | `http://localhost:3000/api/health` |
 
-> **Default port is 3000.** Override with `API_PORT=8000` in `.env`.
+> **Default port is 3000.** Override with `API_PORT=8000` in `config.py`.
 
 ### 4. Build the vector index (enables semantic search)
 
